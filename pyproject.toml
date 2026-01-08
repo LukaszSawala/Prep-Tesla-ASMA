@@ -6,7 +6,16 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "bs4>=0.0.2",
+    "chromedriver-py>=143.0.7499.192",
+    "faster-whisper>=1.2.1",
+    "google>=3.0.0",
+    "google-genai>=1.57.0",
+    "numpy>=2.4.0",
+    "openai>=2.14.0",
     "requests>=2.32.5",
     "selenium>=4.39.0",
+    "sounddevice>=0.5.3",
+    "torch>=2.9.1",
     "tqdm>=4.67.1",
+    "transformers>=4.57.3",
 ]
