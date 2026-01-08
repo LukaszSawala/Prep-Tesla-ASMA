@@ -48,7 +48,7 @@ def scrape_procedure(url, driver, title):
     return {
         "id": proc_id,
         "title": title, # use passed title
-        "category": "10 - Body Panels > 1010 - Body Panels", # figure out how to get this dynamically later
+        "section": "10 - Body Panels > 1010 - Body Panels", # figure out how to get this dynamically later
         "correction_code": correction_code,
         "frt": frt,
         "full_url": url,
