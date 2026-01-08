@@ -1,5 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from chromedriver_py import binary_path  # This is the key import
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -9,17 +11,10 @@ from urllib.parse import urljoin
 from tqdm import tqdm
 from crawler import crawl_body_panels_section
 
-# Setup headless Chrome once (reuse driver if scraping many)
-chrome_options = Options()
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--disable-gpu")
-chrome_options.add_argument("--no-sandbox")
-chrome_options.add_argument("--window-size=1920,1080")  # Helps rendering
-driver = webdriver.Chrome(options=chrome_options)
 
-def scrape_procedure(url):
+
+def scrape_procedure(url, driver, title):
     driver.get(url)
-    
     # Wait for main content to load (e.g., h1 or a key section)
     try:
         WebDriverWait(driver, 10).until(
@@ -27,17 +22,13 @@ def scrape_procedure(url):
         )
     except:
         print(f"Timeout loading {url}")
-    
+
     # Get fully rendered HTML
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, "html.parser")
     
     # ID from URL
     proc_id = url.split('/')[-1].replace('.html', '')
-    
-    # Title - now present as <h1>
-    title_tag = soup.find('h1')
-    title = title_tag.text.strip() if title_tag else proc_id
     
     # Correction code & FRT - search text pattern (robust)
     full_text = soup.get_text()
@@ -54,12 +45,10 @@ def scrape_procedure(url):
     else:
         full_text = " ".join(soup.stripped_strings)
     
-    driver.quit()  # Or reuse for multiple calls
-    
     return {
         "id": proc_id,
-        "title": title,
-        "category": "Body Panels",
+        "title": title, # use passed title
+        "category": "10 - Body Panels > 1010 - Body Panels", # figure out how to get this dynamically later
         "correction_code": correction_code,
         "frt": frt,
         "full_url": url,
@@ -67,6 +56,19 @@ def scrape_procedure(url):
     }
 
 if __name__ == "__main__":
+
+    # Setup headless Chrome once (reuse driver if scraping many)
+    print("Setting up headless Chrome...")
+    chrome_options = Options()
+    chrome_options.add_argument("--headless=new")  # Updated headless flag for recent Chrome
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--window-size=1920,1080")
+    print("Headless Chrome setup complete.")
+    service = Service(executable_path=binary_path)
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+
     body_1010_url = "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-24F633E2-C64D-4ECB-A6E2-669CF5012901.html"
     procedure_links = crawl_body_panels_section(body_1010_url)
 
@@ -74,9 +76,10 @@ if __name__ == "__main__":
 
     procedures = []
     for link in tqdm(procedure_links, desc="Scraping procedures"):
-        procedure = scrape_procedure(link["url"])
+        procedure = scrape_procedure(link["url"], driver, title=link["title"])
         procedures.append(procedure)
 
+    driver.quit()
     # save those to a folder higher up
     with open("../data/body_panels_procedures.json", "w") as f:
         json.dump(procedures, f, indent=2, ensure_ascii=False) # save as utf-8
