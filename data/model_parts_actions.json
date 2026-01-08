@@ -1,0 +1,49 @@
+{
+  "Model Y": {
+    "Brace - Shock Tower": [
+      "Remove and Replace"
+    ],
+    "Cowl Screen Bracket": [
+      "Remove and Replace"
+    ],
+    "Fem Bracket - LH": [
+      "Remove and Replace"
+    ],
+    "Fem Bracket - RH": [
+      "Remove and Replace"
+    ],
+    "Fender - LH": [
+      "Remove and Replace"
+    ],
+    "Door - Front - LH": [
+      "Remove and Install",
+      "Remove and Replace"
+    ],
+    "Hood": [
+      "Remove and Install"
+    ],
+    "Launcher Bracket - LH": [
+      "LHD"
+    ],
+    "Liftgate": [
+      "Remove and Install",
+      "Remove and Replace"
+    ],
+    "Lower Trunk": [
+      "Remove and Replace"
+    ],
+    "Panel - Rear End": [
+      "Remove and Replace"
+    ],
+    "Pencil Brace - Wiper Bracket - LH": [
+      "Remove and Replace"
+    ],
+    "Pencil Brace - Wiper Bracket - RH": [
+      "Remove and Replace"
+    ],
+    "Door - Rear - LH": [
+      "Remove and Install",
+      "Remove and Replace"
+    ]
+  }
+}
