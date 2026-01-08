@@ -2,13 +2,16 @@ import json
 from tqdm import tqdm
 import time
 from google import genai
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-
-INPUT_PATH = "../data/body_panels_procedures.json"
-OUTPUT_PATH = "../data/body_panels_procedures_augmented.json"
+INPUT_PATH = "../data/raw/body_panels_procedures.json"
+OUTPUT_PATH = "../data/processed/body_panels_procedures_augmented.json"
 
 # ---------------- Gemini API Setup ----------------
-client = genai.Client(api_key="AIzaSyAi_gLquR1M4XBYbrImlpvOGWDuGbahNyA")
+API_KEY = os.getenv("API_KEY")
+client = genai.Client(api_key=API_KEY)
 
 def build_prompt(full_text: str) -> str:
     return f"""
