@@ -1,49 +1,100 @@
 {
   "Model Y": {
     "Brace - Shock Tower": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-641A8D8A-E9FF-46F3-AF65-50AD7F7978E1"
+      ]
     ],
     "Cowl Screen Bracket": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-55F6FF54-3E37-4247-AE83-B682579242CA"
+      ]
     ],
     "Fem Bracket - LH": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-F394E4A2-4B15-44D5-9E18-848143D5F5AD"
+      ]
     ],
     "Fem Bracket - RH": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-EF4AB37E-6678-4614-97D7-148F1AA7CB41"
+      ]
     ],
     "Fender - LH": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-489C234D-0880-406B-AF19-07850CABD19C"
+      ]
     ],
     "Door - Front - LH": [
-      "Remove and Install",
-      "Remove and Replace"
+      [
+        "Remove and Install",
+        "GUID-3854CC14-6DD1-4CFE-A639-A8464023F1C7"
+      ],
+      [
+        "Remove and Replace",
+        "GUID-F1462900-0409-44C9-9844-5A3C0AC66FEE"
+      ]
     ],
     "Hood": [
-      "Remove and Install"
+      [
+        "Remove and Install",
+        "GUID-D59E7769-7993-4CED-94D7-466B8738B6F1"
+      ]
     ],
     "Launcher Bracket - LH": [
-      "LHD"
+      [
+        "LHD",
+        "GUID-BBB72376-8E62-4016-8019-D1E0149039E8"
+      ]
     ],
     "Liftgate": [
-      "Remove and Install",
-      "Remove and Replace"
+      [
+        "Remove and Install",
+        "GUID-DFA207D7-5A56-422B-A322-ED5F3D3C3C29"
+      ],
+      [
+        "Remove and Replace",
+        "GUID-71945A0F-B37F-4D2A-8EC6-01DFA511968C"
+      ]
     ],
     "Lower Trunk": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-F18EDB98-AF6A-45CF-8A2E-754552351632"
+      ]
     ],
     "Panel - Rear End": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-A5ED0D80-7589-40C7-BA4D-6E296D0FC755"
+      ]
     ],
     "Pencil Brace - Wiper Bracket - LH": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-5664BD92-0891-4741-9A59-7884B715D82F"
+      ]
     ],
     "Pencil Brace - Wiper Bracket - RH": [
-      "Remove and Replace"
+      [
+        "Remove and Replace",
+        "GUID-24EF19E1-1E98-48D3-B476-1B7A7D2F249E"
+      ]
     ],
     "Door - Rear - LH": [
-      "Remove and Install",
-      "Remove and Replace"
+      [
+        "Remove and Install",
+        "GUID-2AE30B04-589C-4CB4-B526-CEA938888549"
+      ],
+      [
+        "Remove and Replace",
+        "GUID-FE08CFCA-DEC5-4B8D-9E12-CDD036A4F5E4"
+      ]
     ]
   }
 }

@@ -3,6 +3,7 @@ from tqdm import tqdm
 import time
 from google import genai
 import os
+import re
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -37,7 +38,10 @@ def query_gemini(prompt: str) -> dict:
         model="gemini-2.5-flash",
         contents=prompt
     )
-
+    fence_pattern = r"^```(?:json)?\s*(.*?)\s*```$"
+    match = re.match(fence_pattern, response, flags=re.DOTALL | re.IGNORECASE)
+    if match:
+        response = match.group(1).strip()
     try:
         return json.loads(response.text)
     except json.JSONDecodeError:

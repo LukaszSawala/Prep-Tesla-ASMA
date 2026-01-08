@@ -51,7 +51,7 @@ def main():
             model_parts[part] = []
 
         if action not in model_parts[part]:
-            model_parts[part].append(action)
+            model_parts[part].append([action, proc.get("id")])
 
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
