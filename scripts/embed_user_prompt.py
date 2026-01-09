@@ -38,6 +38,15 @@ client = genai.Client(api_key=API_KEY)
 def load_model_parts(path: str) -> Dict:
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+    
+def load_procedures(path: str) -> Dict[str, dict]:
+    """
+    Load procedures JSON and create a dictionary keyed by procedure ID.
+    """
+    with open(path, "r", encoding="utf-8") as f:
+        procedures_list = json.load(f)
+
+    return {proc["id"]: proc for proc in procedures_list}
 
 # =========================
 # Gemini Grounding
@@ -137,12 +146,21 @@ def get_procedure_id(part_data: List[List[str]], operation: str) -> str:
 def run():
     print("\n=== Technician Assistant Prototype ===\n")
 
-    model_parts = load_model_parts(MODEL_PARTS_PATH)
+    model_options = ["Model Y"]
+    print("Available models:")
+    for i, model in enumerate(model_options, 1):
+        print(f"{i}. {model}")
 
-    # Prototype: single model
-    model = "Model Y"
+    while True:
+        try:
+            idx = int(input("Select model: ")) - 1
+            model = model_options[idx]
+            break
+        except (ValueError, IndexError):
+            print("Invalid choice.")
     print(f"Selected model: {model}")
 
+    model_parts = load_model_parts(MODEL_PARTS_PATH)
     valid_parts = list(model_parts[model].keys())
 
     user_input = input("\nDescribe what you want to do: ")
@@ -158,11 +176,15 @@ def run():
     operation = choose_operation(part_data)
     proc_id = get_procedure_id(part_data, operation)
 
-    print("\n✅ Final result")
-    print("Model:", model)
-    print("Target part:", confirmed_part)
-    print("Operation:", operation)
-    print("Procedure ID:", proc_id)
+    procedures_dict = load_procedures(PROCEDURES_PATH)
+    procedure = procedures_dict.get(proc_id, {})
+    print(f"\n✅ Retrieved procedure: {procedure.get('full_url')}\n")
+    print("Procedure details:")
+    for key in ["id", "target_part", "operation_type"]:
+        print(f"{key}: {procedure.get(key)}")
+    for key in procedure.get("llm_metadata", {}):
+        print(f"{key}: {procedure['llm_metadata'].get(key)}")
+
 
 # =========================
 # Entry
