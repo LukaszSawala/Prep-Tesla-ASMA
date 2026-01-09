@@ -1,0 +1,3551 @@
+[
+  {
+    "id": "GUID-641A8D8A-E9FF-46F3-AF65-50AD7F7978E1",
+    "title": "Brace - Shock Tower (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove the cabin intake duct. See Duct - Air Intake (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove LV power. See LV Battery (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Use a clip pry tool to release the clips (x4) that attach the coolant hose to the A/C compressor bracket.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Release the connector locking tab, and then disconnect the HVIL connector near the LH front strut tower. , NoteDO NOT push down on the red locking tab. Pull the tab away from the connector until the connector is unlocked, and then continue pulling to release the connector. , TIp Use of the following tool(s) is recommended: Pick Miniature Soft Grip, 90 degree tip, 6 in",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Release the connector locking tab, then disconnect the A/C logic electrical connector from the A/C compressor. , NoteDO NOT push down on the red locking tab. Pull the tab away from the connector until the connector is unlocked, and then continue pulling to release the connector. , TIp Use of the following tool(s) is recommended: Pick Miniature Soft Grip, 90 degree tip, 6 in",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Use a clip pry tool to release the retaining clip that attaches the A/C compressor logic harness to the A/C compressor HV harness bracket.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Remove the bolt that attaches the ground strap to the A/C compressor, and then set the ground strap aside. , TIp Use of the following tool(s) is recommended: Torx T25 socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Use a clip pry tool to release the clip that attaches the coolant hose to the A/C compressor bracket.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Remove the retaining clips (x5) that attach the A/C compressor HV harness to the shock tower brace. , NotePull upward on the clip to assist with removal. Do not pull upward on the HV cable.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Place a fender cover (1115212-00-A) on the front underhood storage unit reinforcement beam to prevent damage to other components.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "With an assistant, remove the bolts (x2) that attach the A/C compressor assembly to the strut tower brace, and then carefully maneuver the assembly towards the front of the vehicle, under the strut tower support brace. Rest the A/C compressor assembly on the front underhood storage unit reinforcement beam. , to a CAUTIONDo not rest the A/C compressor on the HV connector. , TIp Use of the following tool(s) is recommended: 15 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Secure the supermanifold assembly with bungee cords. , NoteInstall bungee cord to RH hood strut bracket. Route bungee cord around accumulator housing and secure to the RH body side. Do not secure bungee cord around coolant pumps or plastic housing on supermanifold. Use a mirror as needed to visual check bungee cord around accumulator housing.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Remove the bolts (x2) that attach the supermanifold to the shock tower brace. , TIp Use of the following tool(s) is recommended: 15 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Remove the LH and RH bolts (x4) that attach the shock tower brace to the body. , TIp Use of the following tool(s) is recommended: 15 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Remove the LH and RH outer bolts (x2) that attach the shock tower brace to the body, and then remove the shock tower brace from the vehicle. , TIp Use of the following tool(s) is recommended: 15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Pick Miniature Soft Grip, 90 degree tip, 6 in",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Pick Miniature Soft Grip, 90 degree tip, 6 in",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Torx T25 socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Position the shock tower brace to the vehicle, and then loosely install the LH and RH bolts (x6) that attach the shock tower brace to the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Torque the LH and RH outer bolts (x2) that attach the shock tower brace to the body.62 Nm (45.7 lbs-ft) , TIp Use of the following tool(s) is recommended: 15 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Torque the LH and RH bolts (x4) that attach the shock tower brace to the body.55 Nm (40.6 lbs-ft) , TIp Use of the following tool(s) is recommended: 15 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "With an assistant supporting the A/C compressor assembly under the strut tower brace, install the bolts (x2) that attach the supermanifold to the shock tower brace.31 Nm (22.9 lbs-ft) , TIp Use of the following tool(s) is recommended: 15 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove the bungee cords from the supermanifold assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "With an assistant supporting the A/C compressor assembly under the strut tower brace, hand-start the bolts (x2) that attach the A/C compressor assembly to the brace, and then torque the bolts.31 Nm (22.9 lbs-ft) , TIp Use of the following tool(s) is recommended: 15 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Remove the fender cover from the front underhood storage unit support beam.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Install the retaining clips (x5) that attach the A/C compressor HV harness to the shock tower support brace.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Install the clip that attaches the coolant hose to the A/C compressor bracket.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Position the ground strap on the A/C compressor, and then install the bolt that attaches the ground strap to the A/C compressor.7 Nm (5.2 lbs-ft) , TIp Use of the following tool(s) is recommended: Torx T25 socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Install the retaining clip that attaches the A/C compressor logic harness to the A/C compressor HV harness bracket.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Connect the A/C compressor logic electrical connector to the A/C compressor, and then engage the locking tab. , NotePush the red locking tab into the connector to engage the locking mechanism. DO NOT push down or pull up on the red locking tab.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Connect the HVIL connector near the LH front strut tower, and then engage the locking tab. , NotePush the red locking tab into the connector to engage the locking mechanism. DO NOT push down or pull up on the red locking tab.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Install the clips (x4) that attach the coolant hose to the A/C compressor bracket.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Install LV power. See LV Battery (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Remove the cabin intake duct. See Duct - Air Intake (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Install the underhood storage unit. See Underhood Storage Unit (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "15 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Torx T25 socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-55F6FF54-3E37-4247-AE83-B682579242CA",
+    "title": "Cowl Screen Bracket (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove the cowl screen panel. See Cowl Screen (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove the positive jumper post cap.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the stud bolt that attaches the positive jumper post to the cowl screen bracket. , Note Use of the following tool(s) is recommended: External Torx E5",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove the bolt that attaches the cowl screen bracket to the body. , Note Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Release the tabs (x2) that attach the cowl screen bracket to the vehicle, and then remove it from the vehicle.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "External Torx E5",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Install the tabs (x2) that attach the cowl screen bracket to the vehicle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the bolt that attaches the cowl screen bracket to the body.7 Nm (5.2 lbs-ft) , Note Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Install the stud bolt that attaches the positive jumper post to the cowl screen bracket.8 Nm (5.9 lbs-ft) , Note Use of the following tool(s) is recommended: External Torx E5",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Install the positive jumper post cap.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Install the cowl screen panel. See Cowl Screen (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "External Torx E5",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-F394E4A2-4B15-44D5-9E18-848143D5F5AD",
+    "title": "Fem Bracket - LH (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the front lightbar assembly. See Lightbar - Front (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove the LH front wheel. See Wheel Assembly (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove the front fascia assembly from the vehicle. See Front Fascia (Remove and Replace). , NoteDo not separate the valance, the grille and the harness from the front fascia.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Disconnect the cooling fan connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Disconnect the LH FEM harness connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Disconnect the LH front pedestrian protection pressure tube sensor. , NoteDo not push down on the red tab. Pull it to disengage the lock, and then pull it again to release the connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Release the harness clip from the LH crush can.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Release the harness clip from the FEM.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Release 4 of the LH front wheel liner clips.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Partially remove the LH front wheel liner.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Release the LH front wheel speed sensor harness clips (x2) from the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Disconnect the LH Front wheel speed sensor connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Remove the FEM bracket LH crash accelerometer sensor. See Single Axis - 480G - Crash Accel Sensor (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Disconnect the LH headlamp connector. , NotePull the tab to disengage the lock mechanism, and then pull it again to release the connector. Do not press down on the tab.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Release the clip that attaches the front harness to the LH FEM bracket assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Remove the harness from the LH FEM bracket assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Remove the bolts (x3) that attach the LH FEM bracket assembly to the body. , TIp Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Remove the bolt that attaches the FEM bracket to the LH front fender. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Remove the bolt that attaches the LH FEM bracket assembly to the FEM, and then remove the LH FEM bracket assembly from the vehicle. , TIp Use of the following tool(s) is recommended: 13 mm deep socket 10 in extension",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "10 in extension",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Hand-tighten the bolt that attaches the LH FEM bracket assembly to the FEM. , NoteTorque at later steps.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Hand-tighten the bolt that attaches the FEM bracket to the LH front fender. , NoteTorque at later steps.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Hand-tighten the bolts (x3) that attach the LH FEM bracket assembly to the body. , NoteTorque at later steps.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Torque the bolts (x3) that attach the LH FEM bracket assembly to the body.30 Nm (22.1 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Torque the bolt that attaches the FEM bracket to the LH front fender.6.5 Nm (4.8 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Torque the bolt that attaches the LH FEM bracket assembly to the FEM.16 Nm (11.8 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm deep socket 10 in extension",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Route the front harness through the LH FEM bracket assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Secure the clip that attaches the front harness to the LH FEM bracket assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Install the FEM bracket LH crash accelerometer sensor. See Single Axis - 480G - Crash Accel Sensor (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Clip the front harness to the LH crush can.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Clip the front harness to the FEM.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Connect the LH headlamp connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Connect the LH front pedestrian protection pressure tube sensor.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Install the clips (x2) that attach the LH front wheel speed sensor harness to the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Connect the LH front wheel speed sensor connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Install the LH front wheel liner.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Install the 4 LH front wheel liner clips.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Connect the LH FEM harness connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Connect the cooling fan connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Install the front fascia assembly to the vehicle. See Front Fascia (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Install the LH front wheel. See Wheel Assembly (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 22,
+            "instruction": "Install the front lightbar assembly. See Lightbar - Front (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 23,
+            "instruction": "Connect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 24,
+            "instruction": "Install the underhood storage unit. See Underhood Storage Unit (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "10 in extension",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-EF4AB37E-6678-4614-97D7-148F1AA7CB41",
+    "title": "Fem Bracket - RH (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the front lightbar assembly. See Lightbar - Front (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove the RH front wheel. See Wheel Assembly (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove the front fascia assembly from the vehicle. See Front Fascia (Remove and Replace). , NoteDo not separate the valance, the grille and the harness from the front fascia.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Disconnect the RH FEM harness connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Disconnect the RH front pedestrian protection pressure tube sensor. , NoteDo not push down on the red tab. Pull it to disengage the lock, and then pull it again to release the connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Release the harness clips (x2) from the RH headlamp.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Release the harness clip from the RH crush can.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Release 4 of the RH front wheel liner clips.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Partially remove the RH front wheel liner.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Release the RH front wheel speed sensor harness clips (x2) from the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Disconnect the RH front wheel speed sensor connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Remove the FEM bracket RH crash accelerometer sensor. See Single Axis - 480G - Crash Accel Sensor (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Disconnect the RH headlamp connector. , NotePull the tab to disengage the lock mechanism, and then pull it again to release the connector. Do not press down on the tab.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Release the harness clip from the FEM.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Release the front harness clip from the RH FEM bracket assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Remove the harness from the RH FEM bracket assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Remove the bolts (x3) that attach the RH FEM bracket assembly to the body. , TIp Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Remove the bolt that attaches the FEM bracket to the RH front fender. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Remove the bolt that attaches the RH FEM bracket assembly to the FEM, and then remove the RH FEM bracket assembly from the vehicle. , TIp Use of the following tool(s) is recommended: 13 mm deep socket 10 in extension",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "10 in extension",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Hand-tighten the bolt that attaches the RH FEM bracket assembly to the FEM. , NoteTorque at later steps.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Hand-tighten the bolt that attaches the FEM bracket to the RH front fender. , NoteTorque at later steps.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Hand-tighten the bolts (x3) that attach the RH FEM bracket assembly to the body. , NoteTorque at later steps.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Torque the bolts (x3) that attach the RH FEM bracket assembly to the body.30 Nm (22.1 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Torque the bolt that attaches the FEM bracket to the RH front fender.6.5 Nm (4.8 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Torque the bolt that attaches the RH FEM bracket assembly to the FEM.16 Nm (11.8 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm deep socket 10 in extension",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Route the front harness through the RH FEM bracket assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Secure the front harness clip to the RH FEM bracket assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Connect the RH headlamp connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Install the FEM bracket RH crash accelerometer sensor. See Single Axis - 480G - Crash Accel Sensor (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Clip the front harness to the FEM.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Clip the front harness to the RH crush can.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Connect the RH front pedestrian protection pressure tube sensor.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Install the clips (x2) that attach the RH front wheel speed sensor harness to the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Connect the RH Front wheel speed sensor connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Install the RH front wheel liner.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Install the 4 RH front wheel liner clips.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Clip the harness to the RH headlamp.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Connect the RH FEM harness connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Install the front fascia assembly to the vehicle. See Front Fascia (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Install the RH front wheel. See Wheel Assembly (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 22,
+            "instruction": "Install the front lightbar assembly. See Lightbar - Front (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 23,
+            "instruction": "Connect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 24,
+            "instruction": "Install the underhood storage unit. See Underhood Storage Unit (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "10 in extension",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-489C234D-0880-406B-AF19-07850CABD19C",
+    "title": "Fender - LH (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Open the LH front door and lower the LH front window.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the front lightbar assembly. See Lightbar - Front (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove the front fascia assembly. See Front Fascia (Remove and Replace). , NoteNo need to separate the valance, the front fascia harness and the grille from the front fascia assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove the LH headlamp. See Headlamp Assembly - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Remove the LH fascia side bracket from fender. See Bracket - Fascia Side to Fender - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Disconnect the cowl screen from the LH carrier bracket.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Remove the bolts (x5) that attach the LH front fender bracket to the body. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Remove the nuts (x2) that attach the LH lower front fender bracket to the body. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Disconnect the side repeater connectors (x2).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Remove the LH front fender assembly from the vehicle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Release the clip and tabs (x2) to remove the LH side repeater. , NotePress to release the clip.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Remove the frunk fender clips (x3) from the LH front fender. , NoteReplace any damaged clip.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Release the clips (x2) to remove the headlamp rubber grommet from the LH front fender.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Secure the clips (x2) to install the headlamp rubber grommet onto the LH front fender.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the frunk fender clips (x3) onto the LH front fender. , NoteReplace any damaged clip.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Secure the clip and the tabs (x2) to install the LH side repeater onto the fender. , NoteWhen the side repeater is installed in place, a noticeable \"click\" sound can be heard.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Connect the LH side repeater connectors (x2). , NoteEnsure the lock on camera connection is secure.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Position the LH front fender assembly onto the vehicle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Install the nuts (x2) that attach the LH lower front fender bracket to the body.9.8 Nm (7.2 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Install the bolts (x5) that attach the LH front fender bracket to the body.9.8 Nm (7.2 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Secure the cowl screen clip to the LH carrier bracket.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Install the LH fascia side bracket from fender. See Bracket - Fascia Side to Fender - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Install the LH headlamp. See Headlamp Assembly - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Install the front fascia assembly. See Front Fascia (Remove and Replace). , NoteAfter installing the clips (x4) that attach the LH and RH front wheel arch liner to the front fascia assembly, check gap and flushness for the fender, and adjust if necessary. Refer to CVIS for current specification.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Install the front lightbar assembly. See Lightbar - Front (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Connect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Remove all the protective tapes.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Raise the LH front window and close the LH front door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Remove the vehicle from the lift.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-3854CC14-6DD1-4CFE-A639-A8464023F1C7",
+    "title": "Door - Front - LH (Remove and Install)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Open the LH front door and lower the LH front window.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove the driver footwell hush panel. See Hush Panel - Footwell - Driver (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the LH lower A-pillar trim. See A Pillar Lower Trim - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Disconnect the J7 front door connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Release the grommet and remove the LH front door harness from the A-pillar area. , NotePush the harness through the bulkhead from the A-pillar area.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Apply tape to the LH front fender area.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Apply tape surrounding the hinges to mark the installation position.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Remove the bolt that attaches the LH front door check strap to the body. , TIp Use of the following tool(s) is recommended: Torx T40 socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Release the nuts (x2) that attach the LH front upper and lower door hinges to the door. , TIp Use of the following tool(s) is recommended: Combination Wrench 12pt 13mm",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "With assistance, lift the LH front door assembly up from the vehicle, and place it on a padded surface.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Torx T40 socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Combination Wrench 12pt 13mm",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "With assistance, position the LH front door assembly to the vehicle, and hand-tighten the nuts (x2) that attach the LH front lower and upper door hinges to the door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the bolt that attaches the LH front door check strap to the body.24 Nm (17.7 lbs-ft) , TIp Use of the following tool(s) is recommended: Torx T40 socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Route the LH front door harness through the outer A-pillar and install the grommet. , NoteVerify the seal if fully seated around the black grommet prior to installing.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Connect the J7 front door connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Install the LH lower A-pillar trim. See A Pillar Lower Trim - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Install the driver footwell hush panel. See Hush Panel - Footwell - Driver (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Connect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Close the LH front door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Close the LH front door to check for gap/flushness. , NoteAdjust the LH front door if necessary. Refer to CVIS for current specification.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Open the LH front door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Torque the nuts (x2) that attach the LH front lower and upper door hinges to the door.26 Nm (19.2 lbs-ft) , TIp Use of the following tool(s) is recommended: Combination Wrench 12pt 13mm",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Remove all masking tapes.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Raise the LH front window and close the LH front door.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Torx T40 socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Combination Wrench 12pt 13mm",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-F1462900-0409-44C9-9844-5A3C0AC66FEE",
+    "title": "Door - Front - LH (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Open the LH front door and lower the LH front window.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Move the LH front seat backward.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the secondary seal from the LH front door. See Secondary Seal - Front Door - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove the LH front door moving side glass. See Glass - Door - Front - LH (Model Y Premium) (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Remove the LH exterior mirror. See Exterior Mirror - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Remove the LH front pressure sensor. See Door Pressure Sensor (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Disconnect the LH front regulator motor connector. , NoteDisengage the red locking tab, and then press down the black tab to release the connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Remove the LH front door speaker woofer. See Speaker - Front Door (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Remove the LH front door closeout panel assembly. See Closeout Panel - Window Regulator - Front Door - LH (Remove and Replace). , NoteNo need to remove the window regulator from the door closeout panel assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Remove the LH front outer door handle. See Door Handle Outer - Passive - LH - Front (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Remove the LH front door latch. See Door Latch - Front - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Remove the LH front door harness. See Harness - Front LH Door - Premium - LHD (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Apply tape to LH front fender.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Remove the LH front door check strap. See Check Strap - Front (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Apply tape surrounding the hinges to mark the installation position.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Release the nuts (x2) that attach the LH front upper and lower door hinges to the door. , TIp Use of the following tool(s) is recommended: Combination Wrench 12pt 13mm",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "With assistance, lift the LH front door assembly up from the vehicle, and place it on a padded surface.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Combination Wrench 12pt 13mm",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "With assistance, position the LH front door assembly to the vehicle, and hand-tighten the nuts (x2) that attach the LH front lower and upper door hinges to the door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the LH front door check strap. See Check Strap - Front (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Install the LH front door harness. See Harness - Front LH Door - Premium - LHD (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Install the LH front door latch. See Door Latch - Front - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Install the LH front outer door handle. See Door Handle Outer - Passive - LH - Front (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Install the LH front door closeout panel assembly. See Closeout Panel - Window Regulator - Front Door - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Install the LH front door speaker woofer. See Speaker - Front Door (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Connect the LH front regulator motor connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Install the LH front pressure sensor. See Door Pressure Sensor (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Connect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Install the LH exterior mirror. See Exterior Mirror - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Install the LH front door moving side glass. See Glass - Door - Front - LH (Model Y Premium) (Remove and Replace). , NoteReturn to the current procedure after installing the LH front door outer and inner belt seals.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Close the LH front door to check for gap/flushness. , NoteAdjust the LH front door if necessary. Refer to CVIS for current specification.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Open the LH front door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Torque the nuts (x2) that attach the LH front lower and upper door hinges to the door.26 Nm (19.2 lbs-ft) , TIp Use of the following tool(s) is recommended: Combination Wrench 12pt 13mm",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Remove all masking tapes.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Continue installing the LH front door moving side glass. See Glass - Door - Front - LH (Model Y Premium) (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Install the secondary seal from the LH front door. See Secondary Seal - Front Door - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Install the HEPA filter assembly. See HEPA Filter Assembly (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Move the LH front seat to original position.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Raise the LH front window and close the LH front door.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Combination Wrench 12pt 13mm",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-D59E7769-7993-4CED-94D7-466B8738B6F1",
+    "title": "Hood (Remove and Install)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove hood striker from hood assembly. See Hood Striker (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove LH and RH hood bump stops from hood.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove hood baffle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Apply tape surrounding hood hinge to keep accurate alignment.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "With assistance, remove the nuts (x4) that attach the hood to the LH and RH hood hinges. , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "With assistance, remove the hood from the vehicle, and then place it on a padded surface.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "With assistance, loosely install nuts securing hood to RH and LH hood hinge.27 Nm (19.9 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install hood baffle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Install RH and LH hood bumps stop to hood.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Install hood striker from hood assembly. See Hood Striker (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-BBB72376-8E62-4016-8019-D1E0149039E8",
+    "title": "Launcher Bracket - LH (LHD) (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove the wiper module. See Wiper Module - LHD (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove the LH pedestrian protection actuator. See Actuator - Pedestrian Protection - Active Hood - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the bolts (x2) that attach the LH launcher bracket to the body. , Note Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove the LH launcher bracket from the vehicle.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Align the guide tabs (x2) and position the LH launcher bracket to the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the bolts (x2) that attach the LH launcher bracket to the body.9 Nm (6.6 lbs-ft) , Note Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Install the LH pedestrian protection actuator. See Actuator - Pedestrian Protection - Active Hood - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Install the wiper module. See Wiper Module - LHD (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-DFA207D7-5A56-422B-A322-ED5F3D3C3C29",
+    "title": "Liftgate (Remove and Install)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Open the liftgate.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Use a telescoping hood prop to support the liftgate.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the rear headliner. See Rear Headliner (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Carefully release the clip and location pin that attach the RH rear edge of the headliner to the vehicle. , NoteThis is to gain access to the liftgate harness connectors.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove and discard the bolt that attaches the liftgate harness ground bolt to the liftgate. , TIp Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Disconnect the liftgate harness connectors (x3).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Release the RH rear liftgate grommet from the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Apply masking tape around the liftgate and liftgate hinge to mark the installation positioning.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Place shop towels on the LH and RH side liftgate jambs.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Release the spring clips (x2) that attach the LH and RH power strut upper ball studs to the liftgate, and then lay the struts down on the door jamb. Figure 1. LH shown, RH similar",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Remove the telescoping hood prop.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "With assistance, remove the bolts (x4) that attach the liftgate to the vehicle, and then place the liftgate on a stand. , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "With assistance, position the liftgate onto the vehicle, and then hand-tighten the bolts (x4) that attach the liftgate to the vehicle. , to a CAUTIONMake sure that the hinges do not come into contact with the glass to prevent damage.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the spring clips (x2) that attach the LH and RH power strut upper ball studs to the liftgate. , NoteMake sure that the spring clip has been reset. Figure 2. LH shown, RH similar",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Route the liftgate harness through the access hole, and then install the grommet to the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Connect the liftgate harness connectors (x3).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Install a new bolt that attaches the liftgate harness ground bolt to the liftgate.10 Nm (7.4 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Install the clip and location pin that attach the RH rear edge of the headliner to the vehicle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Install the rear headliner. See Rear Headliner (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Close the liftgate to check gap/flush. With assistance, perform adjustment as necessary to the hinge bolts and trunk striker. , NoteRefer to CVIS for latest specifications.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Open the liftgate.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Tighten the bolts (x4) that attach the liftgate to the vehicle. , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Remove the masking tapes from the vehicle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Close the liftgate.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-71945A0F-B37F-4D2A-8EC6-01DFA511968C",
+    "title": "Liftgate (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Procedure",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "1080562-00-A - TELESCOPING HOOD PROP",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Open the LH front door and lower the LH front window.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Open the liftgate.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the LH and RH liftgate lower bump stops. See .",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove the LH and RH liftgate wedge dampers. See Liftgate Wedge Damper - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove the LH and RH bumper blocks. See Bump Stop - Liftgate - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Remove the LH and RH lower liftgate plugs. Figure 1. LH Shown, RH Similar",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Remove the liftgate harness and the harness grommet. See Assembly - Harness - Liftgate - Global (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Disconnect the backlite glass heater negative connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Remove the clip and bolt that attach the RH ground harness to the liftgate assembly. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Remove the liftgate cinch latch. See Liftgate Cinch Latch (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Remove the tuned mass damper. See Tuned Mass Damper (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Remove the nuts (x3) that attach the base spoiler to the liftgate. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Remove the spoiler outer panel. See Spoiler Outer Panel (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Remove the tail lamp. See Tail Lamp - Liftgate (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Disconnect the liftgate handle switch connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Remove the harness liftgate extend from the liftgate assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Remove the backlight glass. See Backlite Glass (Remove and Install). , NoteNo need to remove the center high mounted brake light from the backlight glass.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Use a telescoping hood prop to support the liftgate.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Place shop towels on the LH and RH side liftgate jambs.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Release the spring clips (x2) that attach the LH and RH power strut upper ball studs to the liftgate, and then lay the struts down on the door jamb. Figure 2. LH Shown, RH Similar",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Remove the telescoping hood prop. , NoteAssistance is recommended after removal.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 22,
+            "instruction": "With assistance, remove the bolts (x4) that attach the liftgate to the vehicle, and then place the liftgate on a stand. , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 23,
+            "instruction": "Remove the LH and RH liftgate ball stud bracket bolts (x2) from the liftgate. , TIp Use of the following tool(s) is recommended: 13 mm deep socket Figure 3. LH Shown, RH Similar",
+            "tips_notes": []
+          },
+          {
+            "step_number": 24,
+            "instruction": "Remove and discard all spacer pads.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 25,
+            "instruction": "Clean all remaining glass adhesive and spacer pads adhesive from the body and the glass.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "With assistance, place the new liftgate on the support stand.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the LH and RH liftgate ball stud bracket bolts (x2) to the liftgate.20 Nm (14.7 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm deep socket Figure 4. LH Shown, RH Similar",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "With assistance, hand-tighten the bolts (x4) that attach the liftgate to the vehicle. , to a CAUTIONMake sure that the hinges do not come into contact with the glass to prevent damage.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Secure the spring clips (x2) that attach the LH and RH power strut upper ball studs to the liftgate. , NoteEnsure that the spring clip has been reset. Figure 5. LH Shown, RH Similar",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Install the liftgate harness and the harness grommet. See Assembly - Harness - Liftgate - Global (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Install the liftgate cinch latch. See Liftgate Cinch Latch (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Install the harness liftgate extend to the liftgate assembly, and install the grommet.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Connect the liftgate extend harness connectors (x2).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Connect the liftgate handle switch connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Install the tail lamp. See Tail Lamp - Liftgate (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Install the spoiler outer panel. See Spoiler Outer Panel (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Install the nuts (x3) that attach the base spoiler to the liftgate.5 Nm (3.7 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Install the tuned mass damper. See Tuned Mass Damper (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Install the LH and RH liftgate wedge dampers. See Liftgate Wedge Damper - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Install the LH and RH bumper blocks. See Bump Stop - Liftgate - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Install the LH and RH liftgate lower bump stops. See .",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Install the LH and RH lower liftgate plugs. Figure 6. LH Shown, RH Similar",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Close the liftgate to check gap/flush, and perform adjustments as necessary.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Open the liftgate.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Install the bolts (x4) that attach the liftgate to the vehicle, and then place the liftgate on a stand.24 Nm (17.7 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Apply touch up pain to the head of the LH and RH liftgate hinge bolts as necessary. , NoteMake sure to shake the touch up paint before applying. If a 2nd coat is necessary, allow the 1st coat to dry for 20 minutes before applying a 2nd one.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 22,
+            "instruction": "Install the backlight glass. See Backlite Glass (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 23,
+            "instruction": "If quipped, install the Chinese Tesla badge. See Badge - Tesla Chinese (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 24,
+            "instruction": "Install the Model Y/Model Y+ badge. See Badge - Model Y (Remove and Replace) or Badge - Model Y+ (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 25,
+            "instruction": "If quipped, install the Dual Motor badge. See Badge - Dual Motor (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 26,
+            "instruction": "Connect the electrical connector, and then install the clip that attaches the center high mounted brake light connector to the body.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 27,
+            "instruction": "Install the clip and bolt that attach the RH ground harness to the liftgate assembly.10 Nm (7.4 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 28,
+            "instruction": "Connect the backlite glass heater negative connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 29,
+            "instruction": "Connect the backlight glass heater positive connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 30,
+            "instruction": "Install the lower liftgate trim. See Liftgate Lower Trim (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 31,
+            "instruction": "Place the vehicle in Service Mode by using the touchscreen. See Service Mode.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 32,
+            "instruction": "Unlock the vehicle gateway. See Gateway (Unlock).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 33,
+            "instruction": "On the touchscreen, tap the Service Mode \"wrench\" (at the bottom of the touchscreen UI), and then tap Driver Assist > Cameras > Clear Camera Calibration, select RearView in the Camera Selection drop list, click Run, and allow the routine to complete.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 34,
+            "instruction": "Exit Service Mode. See Service Mode.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 35,
+            "instruction": "Raise the LH front window and close the LH front door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 36,
+            "instruction": "Remove the masking tapes after the urethane has cured. , to a CAUTIONDo not drive the vehicle until the adhesive manufacturer’s recommended minimum drive-away time has passed. Dow Betaseal Express has a drive-away time of 1 hour minimum in temperatures of 0˚F (-18˚C) or warmer. If necessary, leave the tape applying pressure to the glass on the vehicle and advise the customer that they can remove it after 24 hours. Additionally, advise the customer that they should avoid high driving speeds and speed bumps for the next 24 hours.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-F18EDB98-AF6A-45CF-8A2E-754552351632",
+    "title": "Lower Trunk (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove the trunk sill trim. See Trunk Sill Lower Trim (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove the LH and RH load floor brackets. See Bracket - Load Floor - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove trunk tub. See Trunk Tub (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove bottom foam pad from lower trunk.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove rear center bolt from lower trunk assembly. , TIp Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Remove lower trunk assembly from vehicle. , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Install lower trunk assembly onto vehicle.10 Nm (7.4 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install rear center bolt onto lower trunk assembly.24 Nm (17.7 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Install bottom foam pad to lower trunk.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Install trunk tub. See Trunk Tub (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Install the LH and RH load floor brackets. See Bracket - Load Floor - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Install the trunk sill trim. See Trunk Sill Lower Trim (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-A5ED0D80-7589-40C7-BA4D-6E296D0FC755",
+    "title": "Panel - Rear End (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Place the vehicle on the 2-post lift. , TIpEnsure the vehicle is not charging.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove both rear fender garnishes. See Fender Garnish - Rear - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the trunk tub. See Trunk Tub (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove and discard the rear center bolt from the lower trunk assembly. , TIp Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove the rear side bolts (x2) from the lower trunk assembly. , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Remove the rear fascia and diffuser assembly. See Assembly - Fascia and Diffuser - Rear (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Remove rear bumper beam from the vehicle. See Rear Bumper Beam (Remove and Replace)",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Remove rear fascia center bracket from the vehicle. See Bracket - Center - Rear Fascia (Remove and Replace)",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Remove liftgate striker from the vehicle. See Striker - Liftgate (Remove and Replace)",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Remove bolts (x2) that attach the rear end panel to the body. , TIp Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Slide outward to remove the rear end panel from the rear of the vehicle.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Align the holes (x2) on the rear end panel to the locating pins (x2) on the body to install the panel.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the bolts (x2) that attach the rear end panel to the body.10 Nm (7.4 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Install rear fascia center bracket to the vehicle. See Bracket - Center - Rear Fascia (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Install rear bumper beam to the vehicle. See Rear Bumper Beam (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Install the rear fascia and diffuser assembly. See Assembly - Fascia and Diffuser - Rear (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Install a new rear center bolt to the lower trunk assembly.10 Nm (7.4 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Install the rear side bolts (x2) from the lower trunk assembly.24 Nm (17.7 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Install the trunk tub. See Trunk Tub (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Install liftgate striker to the vehicle. See Striker - Liftgate (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-5664BD92-0891-4741-9A59-7884B715D82F",
+    "title": "Pencil Brace - Wiper Bracket - LH (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Procedure",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "2025-11-04: Updated the torque of the NVH brace bolts (x2) from 18.8 Nm to 27 Nm.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove the cowl screen. See Cowl Screen (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove the bolts (x2) that attaches the LH wiper bracket pencil brace to the body, and then remove the brace from the vehicle. , Note Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Hand-tighten the bolts (x2) that attaches the LH wiper bracket pencil brace to the body, and then torque them.27 Nm (19.9 lbs-ft) , Note Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the cowl screen. See Cowl Screen (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-24EF19E1-1E98-48D3-B476-1B7A7D2F249E",
+    "title": "Pencil Brace - Wiper Bracket - RH (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Procedure",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "2025-11-04: Updated the torque of the NVH brace bolts (x2) from 18.8 Nm to 27 Nm.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Remove the cowl screen. See Cowl Screen (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove the bolts (x2) that attaches the RH wiper bracket pencil brace to the body, and then remove the brace from the vehicle. , Note Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Hand-tighten the bolts (x2) that attaches the RH wiper bracket pencil brace to the body, and then torque them.27 Nm (19.9 lbs-ft) , NoteBe careful not to damage the windshield. , Note Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Install the cowl screen. See Cowl Screen (Remove and Replace).",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-2AE30B04-589C-4CB4-B526-CEA938888549",
+    "title": "Door - Rear - LH (Remove and Install)",
+    "procedure_sections": [
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Open the LH doors and lower the LH windows.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Place the vehicle in Service Mode by using the touchscreen. See Service Mode.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Release the grommet between the 2 hinges, and then release the clips (x2) that attach the electrical harness connector to the door to disconnect the harness from the B-pillar area. , NoteRelease the top clip at first, and then while pressing the top one, release the bottom clip.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Use tape to mark the position of the LH rear door hinges and the LH rear door check strap. Figure 1. Check Strap Area as Example",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Remove the bolt that attaches the LH rear door check strap to the body. , NoteUnbolting the door check allows the door to swing freely beyond opening limits. , TIp Use of the following tool(s) is recommended: Torx T40 socket 4 in extension",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "With assistance, loosen the bolts (x2) that attach the LH rear door assembly to the hinges, and then fully remove the bottom bolt, then fully remove the top bolt. , TIp Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "With assistance, remove the LH rear door assembly from the vehicle, and place it on a padded surface.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Torx T40 socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "4 in extension",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "With assistance, position the LH rear door assembly to the vehicle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "With assistance, hand-tighten the bolts (x2) that attach the LH rear door assembly to the hinges.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Install the bolt that attaches the LH rear door check strap to the body.24 Nm (17.7 lbs-ft) , TIp Use of the following tool(s) is recommended: Torx T40 socket 4 in extension",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Verify the seal is fully seated around the white clips.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Secure the clips (x2) that attach the electrical harness connector to the door until there is an audible click, and then seat the grommet into position. , NoteGently pull the harness to ensure the connector is fully secure.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Connect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Close the LH rear door to check for gap/flushness. , NoteAdjust the LH rear door if necessary. Refer to CVIS for current specification.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Open the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "With assistance, torque the bolts (x2) that attach the LH rear door assembly to the hinges.49 Nm (36.1 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Remove all masking tapes.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Raise the LH rear window and lower the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Unlock the vehicle gateway. See Gateway (Unlock).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "On the touchscreen, tap the Service Mode \"wrench\" (at the bottom of the touchscreen UI), and then tap Closures > Windows > Rear Left Calibrate, click Run, and allow the routine to complete.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Exit Service Mode. See Service Mode.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Raise the LH front window and close the LH front door.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Torx T40 socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "4 in extension",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  },
+  {
+    "id": "GUID-FE08CFCA-DEC5-4B8D-9E12-CDD036A4F5E4",
+    "title": "Door - Rear - LH (Remove and Replace)",
+    "procedure_sections": [
+      {
+        "section_title": "Procedure",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "2025-07-01: Added part numbers for rear door secondary seal.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Procedure",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Window Switch Tool - 1454796-00-B",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "BODY GAP & FLUSH GAUGE, MODEL Y - 1588903-00-A",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "SECONDARY SEAL, REAR DOOR, LH, MY - 1500060-00-B or",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "SECONDARY SEAL, REAR DOOR, RH, MY - 1500061-00-B",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "Place the vehicle in Service Mode by using the touchscreen. See Service Mode.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "Remove the HEPA filter assembly. See HEPA Filter Assembly (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Remove the LH rear door outer belt. See Outer Belt - Rear Door - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Remove the LH rear door trim panel. See Door Trim - Rear - LH (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Remove the LH rear door window glass. See Glass - Door - Rear - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Disconnect the electrical harness from the LH rear window motor.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Disconnect the electrical harness from the LH rear door pressure sensor.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Release the clip that attaches the manual latch release cable to the LH rear window closeout assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Release the clips (x3) that attach the LH rear door harness to the LH rear window closeout assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Remove the plugs (x2) that cover the LH rear window closeout assembly rail fasteners.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Remove the screws (x2) that attach the LH rear window closeout assembly to the LH rear door. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Remove the bolts (x11) that attach the LH rear window closeout assembly to the LH rear door, and then gently lift the closeout assembly upwards to release the datums and angle the bottom of the assembly from the door. , to a CAUTIONNever loosen or remove the nuts (x4) that attach the regulator arms to the assembly closeout panel. , TIp Use of the following tool(s) is recommended: 8 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Disconnect the LH rear outer door handle connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Disconnect the LH rear door electrical harness from the LH rear door latch connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Release the harness clips (x7) from the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Release the grommet between the 2 hinges, and then release the clips (x2) that attach the electrical harness connector to the door to disconnect the harness from the B-pillar area. , NoteRelease the top clip at first, and then while pressing the top one, release the bottom clip.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Remove the rubber grommet from the LH rear door assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Remove the clip bases (x10) from the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Remove the LH rear door latch. See Door Latch - Rear - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Remove the LH rear outer door handle. See Handle - Exterior Release - Door - Rear - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 22,
+            "instruction": "Remove the LH rear door check strap. See Check Strap - Rear (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 23,
+            "instruction": "With assistance, loosen the bolts (x2) that attach the LH rear door assembly to the hinges, and then fully remove the bottom bolt, then fully remove the top bolt. , TIp Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 24,
+            "instruction": "With assistance, remove the LH rear door assembly from the vehicle, and place it on a padded surface.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "8 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Remove Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "With assistance, position the LH rear door assembly to the vehicle.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 2,
+            "instruction": "With assistance, hand-tighten the bolts (x2) that attach the LH rear door assembly to the hinges.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 3,
+            "instruction": "Install the LH rear door check strap. See Check Strap - Rear (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 4,
+            "instruction": "Install the LH rear outer door handle. See Handle - Exterior Release - Door - Rear - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 5,
+            "instruction": "Install the LH rear door latch. See Door Latch - Rear - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 6,
+            "instruction": "Install the clip bases (x10) to the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 7,
+            "instruction": "Install the rubber grommet to the LH rear door assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 8,
+            "instruction": "Verify the seal is fully seated around the white clips.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 9,
+            "instruction": "Secure the clips (x2) that attach the electrical harness connector to the door until there is an audible click, and then seat the grommet into position. , NoteGently pull the harness to ensure the connector is fully secure.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 10,
+            "instruction": "Install the harness clips (x7) to the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 11,
+            "instruction": "Connect the LH rear door electrical harness to the LH rear door latch connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 12,
+            "instruction": "Connect the LH rear outer door handle connector.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 13,
+            "instruction": "Install the LH rear window closeout assembly up and into the LH rear door, and then install the datums that attach the closeout assembly to the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 14,
+            "instruction": "Install the screws (x11) that attach the LH rear window closeout assembly to the LH rear door.4.5 Nm (3.3 lbs-ft) , TIp Use of the following tool(s) is recommended: 8 mm socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 15,
+            "instruction": "Install the screws (x2) that attach the LH rear window closeout assembly to the LH rear door.10 Nm (7.4 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 16,
+            "instruction": "Install the plugs (x2) that cover the LH rear window closeout assembly rail fasteners.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 17,
+            "instruction": "Fasten the clips (x3) that attach the LH rear door harness to the LH rear window closeout assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 18,
+            "instruction": "Connect the electrical harness to the LH rear door pressure sensor.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 19,
+            "instruction": "Connect the electrical harness to the LH rear window closeout assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 20,
+            "instruction": "Install the clip that attaches the manual latch release cable to the LH rear window closeout assembly.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 21,
+            "instruction": "Connect the LV battery power. See LV Power (Disconnect and Connect) (Modify).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 22,
+            "instruction": "Close the LH rear door to check for gap/flushness. , NoteAdjust the LH rear door if necessary. Refer to CVIS for current specification.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 23,
+            "instruction": "Open the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 24,
+            "instruction": "With assistance, torque the bolts (x2) that attach the LH rear door assembly to the hinges.49 Nm (36.1 lbs-ft) , TIp Use of the following tool(s) is recommended: 13 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 25,
+            "instruction": "Install the LH rear door outer belt. See Outer Belt - Rear Door - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 26,
+            "instruction": "Install the LH rear door window glass. See Glass - Door - Rear - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 27,
+            "instruction": "Use IPA wipes to clean the area where the secondary seal will be installed.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 28,
+            "instruction": "Peel back the adhesive backing of the secondary seal and position the seal onto the rear section of the LH rear door. , NoteEnsure the drain holes of the seal are at the bottom of the door. Ensure both edges are under the cut-outs for the inner belt seal and glass run seal. Ensure the open edge of the seal is facing the inside of the door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 29,
+            "instruction": "Firmly press the seal into place while removing the film from the double-sided tape. , NoteEnsure the seal is even all the way around the edge of the door. Align the seal with the positioning tape when pasting.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 30,
+            "instruction": "Install the LH rear door inner belt seal. See Inner Belt Seal - Rear Door - LH (Remove and Replace).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 31,
+            "instruction": "Release the LH rear door latch.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 32,
+            "instruction": "Raise the LH rear window and close the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 33,
+            "instruction": "Check the LH rear window for gap/flushness. , NoteAdjust the LH rear window with assistance if necessary. The gap should be 8.0 ±1.75 mm and the flushness should be 0.0 ±2.0 mm.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 34,
+            "instruction": "Open the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 35,
+            "instruction": "Close the LH rear door latch to allow the window height adjustment. , NoteDo not close the door with the window fully raised, as the upper bright trim will be damaged.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 36,
+            "instruction": "Adjust the glass for access to the regulator guide blocks.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 37,
+            "instruction": "Loosen the bolts (x2) that attach the window glass to the regulator guide blocks about half a turn to maintain the position but still allow adjustment. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 38,
+            "instruction": "Adjust the front of the moving glass to achieve the flush target to the B-Pillar applique. , NoteUse a 5mm hex socket to adjust the friction pad to tilt the glass inboard or outboard. Turn clockwise to achieve outboard adjustments and turn counter-clockwise to achieve inboard adjustments.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 39,
+            "instruction": "Adjust the rear of the moving glass to achieve the flush target to the quarter glass assembly. , NoteUse a 5mm hex socket to adjust the friction pad to tilt the glass inboard or outboard. Turn clockwise to achieve outboard adjustments and turn counter-clockwise to achieve inboard adjustments.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 40,
+            "instruction": "Hand-tighten the bolts (x2) that attach the window glass to the regulator guide blocks. , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 41,
+            "instruction": "Release the LH rear door latch.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 42,
+            "instruction": "Close the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 43,
+            "instruction": "Check the LH rear window for gap/flushness. , NoteAdjust the LH rear window with assistance if necessary. The gap should be 8.0 ±1.75 mm and the flushness should be 0.0 ±2.0 mm.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 44,
+            "instruction": "Open the LH rear door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 45,
+            "instruction": "Close the LH rear door latch to allow the window height adjustment. , NoteDo not close the door with the window fully raised, as the upper bright trim will be damaged.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 46,
+            "instruction": "Adjust the glass for access to the regulator guide blocks.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 47,
+            "instruction": "Torque the bolts (x2) that attach the window glass to the regulator guide blocks.12 Nm (8.8 lbs-ft) , TIp Use of the following tool(s) is recommended: 10 mm deep socket",
+            "tips_notes": []
+          },
+          {
+            "step_number": 48,
+            "instruction": "Install the plugs that cover the openings into the door.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 49,
+            "instruction": "Release the LH rear door latch.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 50,
+            "instruction": "Fully lower the window, and disconnect the window switch special tool from the LH rear door harness.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 51,
+            "instruction": "Install the LH rear door trim panel. See Door Trim - Rear - LH (Remove and Install).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 52,
+            "instruction": "Unlock the vehicle gateway. See Gateway (Unlock).",
+            "tips_notes": []
+          },
+          {
+            "step_number": 53,
+            "instruction": "On the touchscreen, tap the Service Mode \"wrench\" (at the bottom of the touchscreen UI), and then tap Closures > Windows > Rear Left Calibrate, click Run, and allow the routine to complete.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 54,
+            "instruction": "Exit Service Mode. See Service Mode.",
+            "tips_notes": []
+          },
+          {
+            "step_number": 55,
+            "instruction": "Raise the LH front window and close the LH front door.",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "8 mm socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "13 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      },
+      {
+        "section_title": "Install Expand All | Collapse All",
+        "steps": [
+          {
+            "step_number": 1,
+            "instruction": "10 mm deep socket",
+            "tips_notes": []
+          }
+        ]
+      }
+    ],
+    "specifications": []
+  }
+]

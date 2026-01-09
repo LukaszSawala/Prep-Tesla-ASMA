@@ -90,7 +90,6 @@ class Utils:
     def __init__(self):
         self._client = genai.Client(api_key=API_KEY)
 
-    @staticmethod
     def query_gemini(self, prompt: str) -> dict:
         """
         Sends the prompt to Gemini and parses JSON response.

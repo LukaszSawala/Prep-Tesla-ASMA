@@ -1,0 +1,1448 @@
+[
+  {
+    "id": "GUID-641A8D8A-E9FF-46F3-AF65-50AD7F7978E1",
+    "title": "Brace - Shock Tower (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010055312",
+    "frt": 0.6,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-641A8D8A-E9FF-46F3-AF65-50AD7F7978E1.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove the cabin intake duct. See Duct - Air Intake (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove LV power. See LV Battery (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Use a clip pry tool to release the\n            clips (x4) that attach the coolant hose to the A/C compressor bracket."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Release the connector locking tab, and\n            then disconnect the HVIL connector near the LH front strut tower. Informational Purposes An informational icon, calling your attention Note DO NOT push down on the red locking tab. Pull\n              the tab away from the connector until the connector is unlocked, and then continue\n              pulling to release the connector. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Pick Miniature Soft Grip, 90\n                        degree tip, 6 in"
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Release the connector locking tab,\n            then disconnect the A/C logic electrical connector from the A/C compressor. Informational Purposes An informational icon, calling your attention Note DO NOT push down on the red locking tab. Pull\n              the tab away from the connector until the connector is unlocked, and then continue\n              pulling to release the connector. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Pick Miniature Soft Grip, 90\n                        degree tip, 6 in"
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Use a clip pry tool to release the\n            retaining clip that attaches the A/C compressor logic harness to the A/C compressor HV\n            harness bracket."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Remove the bolt that attaches the\n            ground strap to the A/C compressor, and then set the ground strap aside. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Torx T25 socket"
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Use a clip pry tool to release the\n            clip that attaches the coolant hose to the A/C compressor bracket."
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Remove the retaining clips (x5) that\n            attach the A/C compressor HV harness to the shock tower brace. Informational Purposes An informational icon, calling your attention Note Pull upward on the clip to assist with removal. Do not pull\n              upward on the HV cable."
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Place a fender cover (1115212-00-A) on\n            the front underhood storage unit reinforcement beam to prevent damage to other\n            components."
+      },
+      {
+        "type": "step",
+        "number": 12,
+        "content": "With an assistant, remove the bolts\n            (x2) that attach the A/C compressor assembly to the strut tower brace, and then\n            carefully maneuver the assembly towards the front of the vehicle, under the strut tower\n            support brace. Rest the A/C compressor assembly on the front underhood storage unit\n            reinforcement beam. Warning Icon A warning icon, calling your attention to a possibly risky situation CAUTION Do not rest the A/C\n              compressor on the HV connector. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 15 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 13,
+        "content": "Secure the supermanifold assembly with  bungee cords. Informational Purposes An informational icon, calling your attention Note Install bungee cord to RH hood strut bracket. Route bungee cord around accumulator\n              housing and secure to the RH body side. Do not secure bungee cord around coolant pumps\n              or plastic housing on supermanifold. Use a mirror as needed to visual check bungee\n              cord around accumulator housing."
+      },
+      {
+        "type": "step",
+        "number": 14,
+        "content": "Remove the bolts (x2) that attach the supermanifold to the shock tower brace. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 15 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 15,
+        "content": "Remove the LH and RH bolts (x4) that attach the shock tower brace to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 15 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 16,
+        "content": "Remove the LH and RH outer bolts (x2) that attach the shock tower brace to the body,\n            and then remove the shock tower brace from the vehicle. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 15 mm socket"
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolt that attaches the ground strap to the A/C compressor",
+        "torque": "7 Nm (5.2 lbs-ft)",
+        "tools": "Torx T25 socket"
+      },
+      {
+        "description": "Bolts (x2) that attach the A/C compressor assembly to the brace",
+        "torque": "31 Nm (22.9 lbs-ft)",
+        "tools": "15 mm socket"
+      },
+      {
+        "description": "Bolts (x2) that attach the supermanifold to the shock tower brace",
+        "torque": "31 Nm (22.9 lbs-ft)",
+        "tools": "15 mm socket"
+      },
+      {
+        "description": "The LH and RH bolts (x4) that attach the shock tower brace to the body",
+        "torque": "55 Nm (40.6 lbs-ft)",
+        "tools": "15 mm socket"
+      },
+      {
+        "description": "The LH and RH outer bolts that attach the shock tower brace to the body",
+        "torque": "62 Nm (45.7 lbs-ft)",
+        "tools": "15 mm socket"
+      }
+    ],
+    "llm_summary_text": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace) . Remove the cabin intake duct. See Duct - Air Intake (Remove and Replace) . Remove LV power. See LV Battery (Remove and Install) . Use a clip pry tool to release the\n            clips (x4) that attach the coolant hose to the A/C compressor bracket. Release the connector locking tab, and\n            then disconnect the HVIL connector near the LH front strut tower. Informational Purposes An informational icon, calling your attention Note DO NOT push down on the red locking tab. Pull\n              the tab away from the connector until the connector is unlocked, and then continue\n              pulling to release the connector. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Pick Miniature Soft Grip, 90\n                        degree tip, 6 in Release the connector locking tab,\n            then disconnect the A/C logic electrical connector from the A/C compressor. Informational Purposes An informational icon, calling your attention Note DO NOT push down on the red locking tab. Pull\n              the tab away from the connector until the connector is unlocked, and then continue\n              pulling to release the connector. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Pick Miniature Soft Grip, 90\n                        degree tip, 6 in Use a clip pry tool to release the\n            retaining clip that attaches the A/C compressor logic harness to the A/C compressor HV\n            harness bracket. Remove the bolt that attaches the\n            ground strap to the A/C compressor, and then set the ground strap aside. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Torx T25 socket Use a clip pry tool to release the\n            clip that attaches the coolant hose to the A/C compressor bracket. Remove the retaining clips (x5) that\n            attach the A/C compressor HV harness to the shock tower brace. Informational Purposes An informational icon, calling your attention Note Pull upward on the clip to assist with removal. Do not pull\n              upward on the HV cable. Place a fender cover (1115212-00-A) on\n            the front underhood storage unit reinforcement beam to prevent damage to other\n            components. With an assistant, remove the bolts\n            (x2) that attach the A/C compressor assembly to the strut tower brace, and then\n            carefully maneuver the assembly towards the front of the vehicle, under the strut tower\n            support brace. Rest the A/C compressor assembly on the front underhood storage unit\n            reinforcement beam. Warning Icon A warning icon, calling your attention to a possibly risky situation CAUTION Do not rest the A/C\n              compressor on the HV connector. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 15 mm socket Secure the supermanifold assembly with  bungee cords. Informational Purposes An informational icon, calling your attention Note Install bungee cord to RH hood strut bracket. Route bungee cord around accumulator\n              housing and secure to the RH body side. Do not secure bungee cord around coolant pumps\n              or plastic housing on supermanifold. Use a mirror as needed to visual check bungee\n              cord around accumulator housing. Remove the bolts (x2) that attach the supermanifold to the shock tower brace. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 15 mm socket Remove the LH and RH bolts (x4) that attach the shock tower brace to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 15 mm socket Remove the LH and RH outer bolts (x2) that attach the shock tower brace to the body,\n            and then remove the shock tower brace from the vehicle. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 15 mm socket"
+  },
+  {
+    "id": "GUID-55F6FF54-3E37-4247-AE83-B682579242CA",
+    "title": "Cowl Screen Bracket (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010040102",
+    "frt": 0.2,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-55F6FF54-3E37-4247-AE83-B682579242CA.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove the cowl screen panel. See Cowl Screen (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove the positive jumper post cap."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the stud bolt that attaches the positive jumper post to the cowl\n                        screen bracket. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: External Torx E5"
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove the bolt that attaches the cowl screen bracket to the body. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: 10 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Release the tabs (x2) that attach the cowl screen bracket to the vehicle,\n                        and then remove it from the vehicle."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Stud bolt that attaches the positive jumper post to the cowl screen\n              bracket",
+        "torque": "8 Nm (5.9 lbs-ft)",
+        "tools": "External Torx E5"
+      },
+      {
+        "description": "Bolt that attaches the cowl screen bracket to the body",
+        "torque": "7 Nm (5.2 lbs-ft)",
+        "tools": "10 mm deep socket"
+      }
+    ],
+    "llm_summary_text": "Remove the cowl screen panel. See Cowl Screen (Remove and Replace) . Remove the positive jumper post cap. Remove the stud bolt that attaches the positive jumper post to the cowl\n                        screen bracket. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: External Torx E5 Remove the bolt that attaches the cowl screen bracket to the body. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: 10 mm deep socket Release the tabs (x2) that attach the cowl screen bracket to the vehicle,\n                        and then remove it from the vehicle."
+  },
+  {
+    "id": "GUID-F394E4A2-4B15-44D5-9E18-848143D5F5AD",
+    "title": "Fem Bracket - LH (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010050102",
+    "frt": 0.8,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-F394E4A2-4B15-44D5-9E18-848143D5F5AD.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the front lightbar assembly.\n            See Lightbar - Front (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove the LH front wheel. See Wheel Assembly (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Remove the front fascia assembly from\n            the vehicle. See Front Fascia (Remove and Replace) . Informational Purposes An informational icon, calling your attention Note Do not separate the valance, the\n              grille and the harness from the front fascia."
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Disconnect the cooling fan\n            connector."
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Disconnect the LH FEM harness\n            connector."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Disconnect the LH front pedestrian\n            protection pressure tube sensor. Informational Purposes An informational icon, calling your attention Note Do not push down on the red tab.\n              Pull it to disengage the lock, and then pull it again to release the connector."
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Release the harness clip from the LH\n            crush can."
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Release the harness clip from the\n            FEM."
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Release 4 of the LH front wheel liner\n            clips."
+      },
+      {
+        "type": "step",
+        "number": 12,
+        "content": "Partially remove the LH front wheel\n            liner."
+      },
+      {
+        "type": "step",
+        "number": 13,
+        "content": "Release the LH front wheel speed\n            sensor harness clips (x2) from the body."
+      },
+      {
+        "type": "step",
+        "number": 14,
+        "content": "Disconnect the LH Front wheel speed\n            sensor connector."
+      },
+      {
+        "type": "step",
+        "number": 15,
+        "content": "Remove the FEM bracket LH crash\n            accelerometer sensor. See Single Axis - 480G - Crash Accel Sensor (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 16,
+        "content": "Disconnect the LH headlamp\n            connector. Informational Purposes An informational icon, calling your attention Note Pull the tab to disengage the lock\n              mechanism, and then pull it again to release the connector. Do not press down on the\n              tab."
+      },
+      {
+        "type": "step",
+        "number": 17,
+        "content": "Release the clip that attaches the\n            front harness to the LH FEM bracket assembly."
+      },
+      {
+        "type": "step",
+        "number": 18,
+        "content": "Remove the harness from the LH FEM\n            bracket assembly."
+      },
+      {
+        "type": "step",
+        "number": 19,
+        "content": "Remove the bolts (x3) that attach the\n            LH FEM bracket assembly to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 20,
+        "content": "Remove the bolt that attaches the FEM\n            bracket to the LH front fender. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 21,
+        "content": "Remove the bolt that attaches the LH\n            FEM bracket assembly to the FEM, and then remove the LH FEM bracket assembly from the\n            vehicle. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket 10 in extension"
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolts that attach the FEM bracket assembly to the body",
+        "torque": "30 Nm (22.1 lbs-ft)",
+        "tools": "13 mm deep socket"
+      },
+      {
+        "description": "Bolts that attach the FEM bracket to the front fender",
+        "torque": "6.5 Nm (4.8 lbs-ft)",
+        "tools": "10 mm deep socket"
+      },
+      {
+        "description": "Bolts that attach the FEM bracket assembly to the FEM",
+        "torque": "16 Nm (11.8 lbs-ft)",
+        "tools": "13 mm deep socket10 in extension"
+      }
+    ],
+    "llm_summary_text": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace) . Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify) . Remove the front lightbar assembly.\n            See Lightbar - Front (Remove and Install) . Remove the LH front wheel. See Wheel Assembly (Remove and Install) . Remove the front fascia assembly from\n            the vehicle. See Front Fascia (Remove and Replace) . Informational Purposes An informational icon, calling your attention Note Do not separate the valance, the\n              grille and the harness from the front fascia. Disconnect the cooling fan\n            connector. Disconnect the LH FEM harness\n            connector. Disconnect the LH front pedestrian\n            protection pressure tube sensor. Informational Purposes An informational icon, calling your attention Note Do not push down on the red tab.\n              Pull it to disengage the lock, and then pull it again to release the connector. Release the harness clip from the LH\n            crush can. Release the harness clip from the\n            FEM. Release 4 of the LH front wheel liner\n            clips. Partially remove the LH front wheel\n            liner. Release the LH front wheel speed\n            sensor harness clips (x2) from the body. Disconnect the LH Front wheel speed\n            sensor connector. Remove the FEM bracket LH crash\n            accelerometer sensor. See Single Axis - 480G - Crash Accel Sensor (Remove and Replace) . Disconnect the LH headlamp\n            connector. Informational Purposes An informational icon, calling your attention Note Pull the tab to disengage the lock\n              mechanism, and then pull it again to release the connector. Do not press down on the\n              tab. Release the clip that attaches the\n            front harness to the LH FEM bracket assembly. Remove the harness from the LH FEM\n            bracket assembly. Remove the bolts (x3) that attach the\n            LH FEM bracket assembly to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket Remove the bolt that attaches the FEM\n            bracket to the LH front fender. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket Remove the bolt that attaches the LH\n            FEM bracket assembly to the FEM, and then remove the LH FEM bracket assembly from the\n            vehicle. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket 10 in extension"
+  },
+  {
+    "id": "GUID-EF4AB37E-6678-4614-97D7-148F1AA7CB41",
+    "title": "Fem Bracket - RH (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010050202",
+    "frt": 0.8,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-EF4AB37E-6678-4614-97D7-148F1AA7CB41.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the front lightbar assembly.\n            See Lightbar - Front (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove the RH front wheel. See Wheel Assembly (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Remove the front fascia assembly from\n            the vehicle. See Front Fascia (Remove and Replace) . Informational Purposes An informational icon, calling your attention Note Do not separate the valance, the\n              grille and the harness from the front fascia."
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Disconnect the RH FEM harness\n            connector."
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Disconnect the RH front pedestrian\n            protection pressure tube sensor. Informational Purposes An informational icon, calling your attention Note Do not push down on the red tab.\n              Pull it to disengage the lock, and then pull it again to release the connector."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Release the harness clips (x2) from\n            the RH headlamp."
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Release the harness clip from the RH\n            crush can."
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Release 4 of the RH front wheel liner\n            clips."
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Partially remove the RH front wheel\n            liner."
+      },
+      {
+        "type": "step",
+        "number": 12,
+        "content": "Release the RH front wheel speed\n            sensor harness clips (x2) from the body."
+      },
+      {
+        "type": "step",
+        "number": 13,
+        "content": "Disconnect the RH front wheel speed\n            sensor connector."
+      },
+      {
+        "type": "step",
+        "number": 14,
+        "content": "Remove the FEM bracket RH crash\n            accelerometer sensor. See Single Axis - 480G - Crash Accel Sensor (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 15,
+        "content": "Disconnect the RH headlamp\n            connector. Informational Purposes An informational icon, calling your attention Note Pull the tab to disengage the lock\n              mechanism, and then pull it again to release the connector. Do not press down on the\n              tab."
+      },
+      {
+        "type": "step",
+        "number": 16,
+        "content": "Release the harness clip from the\n            FEM."
+      },
+      {
+        "type": "step",
+        "number": 17,
+        "content": "Release the front harness clip from\n            the RH FEM bracket assembly."
+      },
+      {
+        "type": "step",
+        "number": 18,
+        "content": "Remove the harness from the RH FEM\n            bracket assembly."
+      },
+      {
+        "type": "step",
+        "number": 19,
+        "content": "Remove the bolts (x3) that attach the\n            RH FEM bracket assembly to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 20,
+        "content": "Remove the bolt that attaches the FEM\n            bracket to the RH front fender. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 21,
+        "content": "Remove the bolt that attaches the RH\n            FEM bracket assembly to the FEM, and then remove the RH FEM bracket assembly from the\n            vehicle. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket 10 in extension"
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolts that attach the FEM bracket assembly to the body",
+        "torque": "30 Nm (22.1 lbs-ft)",
+        "tools": "13 mm deep socket"
+      },
+      {
+        "description": "Bolts that attach the FEM bracket to the front fender",
+        "torque": "6.5 Nm (4.8 lbs-ft)",
+        "tools": "10 mm deep socket"
+      },
+      {
+        "description": "Bolts that attach the FEM bracket assembly to the FEM",
+        "torque": "16 Nm (11.8 lbs-ft)",
+        "tools": "13 mm deep socket10 in extension"
+      }
+    ],
+    "llm_summary_text": "Remove the underhood storage unit. See Underhood Storage Unit (Remove and Replace) . Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify) . Remove the front lightbar assembly.\n            See Lightbar - Front (Remove and Install) . Remove the RH front wheel. See Wheel Assembly (Remove and Install) . Remove the front fascia assembly from\n            the vehicle. See Front Fascia (Remove and Replace) . Informational Purposes An informational icon, calling your attention Note Do not separate the valance, the\n              grille and the harness from the front fascia. Disconnect the RH FEM harness\n            connector. Disconnect the RH front pedestrian\n            protection pressure tube sensor. Informational Purposes An informational icon, calling your attention Note Do not push down on the red tab.\n              Pull it to disengage the lock, and then pull it again to release the connector. Release the harness clips (x2) from\n            the RH headlamp. Release the harness clip from the RH\n            crush can. Release 4 of the RH front wheel liner\n            clips. Partially remove the RH front wheel\n            liner. Release the RH front wheel speed\n            sensor harness clips (x2) from the body. Disconnect the RH front wheel speed\n            sensor connector. Remove the FEM bracket RH crash\n            accelerometer sensor. See Single Axis - 480G - Crash Accel Sensor (Remove and Replace) . Disconnect the RH headlamp\n            connector. Informational Purposes An informational icon, calling your attention Note Pull the tab to disengage the lock\n              mechanism, and then pull it again to release the connector. Do not press down on the\n              tab. Release the harness clip from the\n            FEM. Release the front harness clip from\n            the RH FEM bracket assembly. Remove the harness from the RH FEM\n            bracket assembly. Remove the bolts (x3) that attach the\n            RH FEM bracket assembly to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket Remove the bolt that attaches the FEM\n            bracket to the RH front fender. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket Remove the bolt that attaches the RH\n            FEM bracket assembly to the FEM, and then remove the RH FEM bracket assembly from the\n            vehicle. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket 10 in extension"
+  },
+  {
+    "id": "GUID-489C234D-0880-406B-AF19-07850CABD19C",
+    "title": "Fender - LH (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010030102",
+    "frt": 0.96,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-489C234D-0880-406B-AF19-07850CABD19C.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Open the LH front door and lower the\n            LH front window."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the front lightbar assembly. See Lightbar - Front (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove the front fascia assembly. See Front Fascia (Remove and Replace) . Informational Purposes An informational icon, calling your attention Note No need to separate the valance, the front fascia harness and the grille from the\n              front fascia assembly."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Remove the LH headlamp. See Headlamp Assembly - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Remove the LH fascia side bracket from\n            fender. See Bracket - Fascia Side to Fender - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Disconnect the cowl screen from the LH\n            carrier bracket."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Remove the bolts (x5) that attach the\n            LH front fender bracket to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Remove the nuts (x2) that attach the LH lower front fender bracket to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Disconnect the side repeater\n            connectors (x2)."
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Remove the LH front fender assembly\n            from the vehicle."
+      },
+      {
+        "type": "step",
+        "number": 12,
+        "content": "Release the clip and tabs (x2) to\n            remove the LH side repeater. Informational Purposes An informational icon, calling your attention Note Press to release the clip."
+      },
+      {
+        "type": "step",
+        "number": 13,
+        "content": "Remove the frunk fender clips (x3)\n            from the LH front fender. Informational Purposes An informational icon, calling your attention Note Replace any damaged clip."
+      },
+      {
+        "type": "step",
+        "number": 14,
+        "content": "Release the clips (x2) to remove the\n            headlamp rubber grommet from the LH front fender."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolts (x5) and nuts (x2) that attach the LH front fender bracket to\n              the body",
+        "torque": "9.8 Nm (7.2 lbs-ft)",
+        "tools": "10 mm deep socket"
+      }
+    ],
+    "llm_summary_text": "Open the LH front door and lower the\n            LH front window. Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify) . Remove the front lightbar assembly. See Lightbar - Front (Remove and Install) . Remove the front fascia assembly. See Front Fascia (Remove and Replace) . Informational Purposes An informational icon, calling your attention Note No need to separate the valance, the front fascia harness and the grille from the\n              front fascia assembly. Remove the LH headlamp. See Headlamp Assembly - LH (Remove and Replace) . Remove the LH fascia side bracket from\n            fender. See Bracket - Fascia Side to Fender - LH (Remove and Replace) . Disconnect the cowl screen from the LH\n            carrier bracket. Remove the bolts (x5) that attach the\n            LH front fender bracket to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket Remove the nuts (x2) that attach the LH lower front fender bracket to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket Disconnect the side repeater\n            connectors (x2). Remove the LH front fender assembly\n            from the vehicle. Release the clip and tabs (x2) to\n            remove the LH side repeater. Informational Purposes An informational icon, calling your attention Note Press to release the clip. Remove the frunk fender clips (x3)\n            from the LH front fender. Informational Purposes An informational icon, calling your attention Note Replace any damaged clip. Release the clips (x2) to remove the\n            headlamp rubber grommet from the LH front fender."
+  },
+  {
+    "id": "GUID-3854CC14-6DD1-4CFE-A639-A8464023F1C7",
+    "title": "Door - Front - LH (Remove and Install)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010020101",
+    "frt": 0.42,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-3854CC14-6DD1-4CFE-A639-A8464023F1C7.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Open the LH front door and\n                        lower the LH front window."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove the driver footwell hush panel. See Hush Panel - Footwell - Driver (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the LH lower A-pillar\n                        trim. See A Pillar Lower Trim - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Disconnect the LV battery\n                        power. See LV Power (Disconnect and Connect) (Modify) ."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Disconnect the J7 front door\n                        connector."
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Release the grommet and remove the LH front door harness from the A-pillar\n                        area. Informational Purposes An informational icon, calling your attention Note Push the harness through the bulkhead from the A-pillar area."
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Apply tape to the LH front fender area."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Apply tape surrounding the\n                        hinges to mark the installation position."
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Remove the bolt that\n                        attaches the LH front door check strap to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Torx T40 socket"
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Release the nuts (x2) that attach the LH front upper and lower door hinges\n                        to the door. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Combination Wrench 12pt 13mm"
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "With assistance, lift the LH\n                        front door assembly up from the vehicle, and place it on a padded\n                        surface."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolt that attaches the LH front door check strap to the body",
+        "torque": "24 Nm (17.7 lbs-ft)",
+        "tools": "Torx T40 socket"
+      },
+      {
+        "description": "Nuts (x2) that attach the LH front upper and lower door hinges to the\n              door",
+        "torque": "26 Nm (19.2 lbs-ft)",
+        "tools": "Combination Wrench 12pt 13mm"
+      }
+    ],
+    "llm_summary_text": "Open the LH front door and\n                        lower the LH front window. Remove the driver footwell hush panel. See Hush Panel - Footwell - Driver (Remove and Replace) . Remove the LH lower A-pillar\n                        trim. See A Pillar Lower Trim - LH (Remove and Replace) . Disconnect the LV battery\n                        power. See LV Power (Disconnect and Connect) (Modify) . Disconnect the J7 front door\n                        connector. Release the grommet and remove the LH front door harness from the A-pillar\n                        area. Informational Purposes An informational icon, calling your attention Note Push the harness through the bulkhead from the A-pillar area. Apply tape to the LH front fender area. Apply tape surrounding the\n                        hinges to mark the installation position. Remove the bolt that\n                        attaches the LH front door check strap to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Torx T40 socket Release the nuts (x2) that attach the LH front upper and lower door hinges\n                        to the door. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Combination Wrench 12pt 13mm With assistance, lift the LH\n                        front door assembly up from the vehicle, and place it on a padded\n                        surface."
+  },
+  {
+    "id": "GUID-F1462900-0409-44C9-9844-5A3C0AC66FEE",
+    "title": "Door - Front - LH (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010020102",
+    "frt": 1.05,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-F1462900-0409-44C9-9844-5A3C0AC66FEE.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Open the LH front door and lower the\n            LH front window."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Move the LH front seat backward."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the secondary seal from the LH\n            front door. See Secondary Seal - Front Door - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove the LH front door moving side glass. See Glass - Door - Front - LH (Model Y Premium) (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify) ."
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Remove the LH exterior mirror. See Exterior Mirror - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Remove the LH front pressure sensor.\n            See Door Pressure Sensor (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Disconnect the LH front regulator\n            motor connector. Informational Purposes An informational icon, calling your attention Note Disengage the red locking tab, and\n              then press down the black tab to release the connector."
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Remove the LH front door speaker\n            woofer. See Speaker - Front Door (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Remove the LH front door closeout\n            panel assembly. See Closeout Panel - Window Regulator - Front Door - LH (Remove and Replace) . Informational Purposes An informational icon, calling your attention Note No need to remove the window\n              regulator from the door closeout panel assembly."
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Remove the LH front outer door handle.\n            See Door Handle Outer - Passive - LH - Front (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 12,
+        "content": "Remove the LH front door latch. See Door Latch - Front - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 13,
+        "content": "Remove the LH front door harness. See Harness - Front LH Door - Premium - LHD (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 14,
+        "content": "Apply tape to LH front fender."
+      },
+      {
+        "type": "step",
+        "number": 15,
+        "content": "Remove the LH front door check strap.\n            See Check Strap - Front (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 16,
+        "content": "Apply tape surrounding the hinges to\n            mark the installation position."
+      },
+      {
+        "type": "step",
+        "number": 17,
+        "content": "Release the nuts (x2) that attach the\n            LH front upper and lower door hinges to the door. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Combination Wrench 12pt 13mm"
+      },
+      {
+        "type": "step",
+        "number": 18,
+        "content": "With assistance, lift the LH front\n            door assembly up from the vehicle, and place it on a padded surface."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolt that attaches the LH front door check strap to the body",
+        "torque": "24 Nm (17.7 lbs-ft)",
+        "tools": "Torx T40 socket"
+      },
+      {
+        "description": "Nuts (x2) that attach the LH front upper and lower door hinges to the\n              door",
+        "torque": "26 Nm (19.2 lbs-ft)",
+        "tools": "Combination Wrench 12pt 13mm"
+      }
+    ],
+    "llm_summary_text": "Open the LH front door and lower the\n            LH front window. Move the LH front seat backward. Remove the secondary seal from the LH\n            front door. See Secondary Seal - Front Door - LH (Remove and Replace) . Remove the LH front door moving side glass. See Glass - Door - Front - LH (Model Y Premium) (Remove and Replace) . Disconnect the LV battery power. See LV Power (Disconnect and Connect) (Modify) . Remove the LH exterior mirror. See Exterior Mirror - LH (Remove and Replace) . Remove the LH front pressure sensor.\n            See Door Pressure Sensor (Remove and Replace) . Disconnect the LH front regulator\n            motor connector. Informational Purposes An informational icon, calling your attention Note Disengage the red locking tab, and\n              then press down the black tab to release the connector. Remove the LH front door speaker\n            woofer. See Speaker - Front Door (Remove and Replace) . Remove the LH front door closeout\n            panel assembly. See Closeout Panel - Window Regulator - Front Door - LH (Remove and Replace) . Informational Purposes An informational icon, calling your attention Note No need to remove the window\n              regulator from the door closeout panel assembly. Remove the LH front outer door handle.\n            See Door Handle Outer - Passive - LH - Front (Remove and Install) . Remove the LH front door latch. See Door Latch - Front - LH (Remove and Replace) . Remove the LH front door harness. See Harness - Front LH Door - Premium - LHD (Remove and Replace) . Apply tape to LH front fender. Remove the LH front door check strap.\n            See Check Strap - Front (Remove and Replace) . Apply tape surrounding the hinges to\n            mark the installation position. Release the nuts (x2) that attach the\n            LH front upper and lower door hinges to the door. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Combination Wrench 12pt 13mm With assistance, lift the LH front\n            door assembly up from the vehicle, and place it on a padded surface."
+  },
+  {
+    "id": "GUID-D59E7769-7993-4CED-94D7-466B8738B6F1",
+    "title": "Hood (Remove and Install)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010020301",
+    "frt": 0.3,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-D59E7769-7993-4CED-94D7-466B8738B6F1.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove hood striker from\n                        hood assembly. See Hood Striker (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove LH and RH hood bump\n                        stops from hood."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove hood baffle."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Apply tape surrounding hood hinge to keep accurate alignment."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "With assistance, remove the nuts (x4) that attach the hood to the LH and RH\n                        hood hinges. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "With assistance, remove the hood from the vehicle, and then place it on a\n                        padded surface."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Nuts (x4) that secure hood to LH and RH hood hinges",
+        "torque": "27 Nm (19.9 lbs-ft)",
+        "tools": "13 mm socket"
+      }
+    ],
+    "llm_summary_text": "Remove hood striker from\n                        hood assembly. See Hood Striker (Remove and Replace) . Remove LH and RH hood bump\n                        stops from hood. Remove hood baffle. Apply tape surrounding hood hinge to keep accurate alignment. With assistance, remove the nuts (x4) that attach the hood to the LH and RH\n                        hood hinges. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket With assistance, remove the hood from the vehicle, and then place it on a\n                        padded surface."
+  },
+  {
+    "id": "GUID-BBB72376-8E62-4016-8019-D1E0149039E8",
+    "title": "Launcher Bracket - LH (LHD) (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010102402",
+    "frt": 0.42,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-BBB72376-8E62-4016-8019-D1E0149039E8.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove the wiper module. See Wiper Module - LHD (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove the LH pedestrian protection actuator. See Actuator - Pedestrian Protection - Active Hood - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the bolts (x2) that\n                        attach the LH launcher bracket to the body. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: 10 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove the LH launcher\n                        bracket from the vehicle."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolts (x2) that attach the launcher bracket to the body",
+        "torque": "9 Nm (6.6 lbs-ft)",
+        "tools": "10 mm socket"
+      }
+    ],
+    "llm_summary_text": "Remove the wiper module. See Wiper Module - LHD (Remove and Replace) . Remove the LH pedestrian protection actuator. See Actuator - Pedestrian Protection - Active Hood - LH (Remove and Replace) . Remove the bolts (x2) that\n                        attach the LH launcher bracket to the body. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: 10 mm socket Remove the LH launcher\n                        bracket from the vehicle."
+  },
+  {
+    "id": "GUID-DFA207D7-5A56-422B-A322-ED5F3D3C3C29",
+    "title": "Liftgate (Remove and Install)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010020401",
+    "frt": 0.4,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-DFA207D7-5A56-422B-A322-ED5F3D3C3C29.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Open the liftgate."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Use a telescoping hood prop to support the liftgate."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the rear headliner.\n                        See Rear Headliner (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Carefully release the clip\n                        and location pin that attach the RH rear edge of the headliner to the\n                        vehicle. Informational Purposes An informational icon, calling your attention Note This is to gain access to the liftgate harness connectors."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Remove and discard the bolt\n                        that attaches the liftgate harness ground bolt to the liftgate. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Disconnect the liftgate harness connectors (x3)."
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Release the RH rear liftgate\n                        grommet from the body."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Apply masking tape around the liftgate and liftgate hinge to mark the\n                        installation positioning."
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Place shop towels on the LH\n                        and RH side liftgate jambs."
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Release the spring clips\n                        (x2) that attach the LH and RH power strut upper ball studs to the liftgate,\n                        and then lay the struts down on the door jamb. Figure 1. LH shown, RH similar"
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Remove the telescoping hood\n                        prop."
+      },
+      {
+        "type": "step",
+        "number": 12,
+        "content": "With assistance, remove the\n                        bolts (x4) that attach the liftgate to the vehicle, and then place the\n                        liftgate on a stand. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket"
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolt that attaches the liftgate harness ground bolt to the\n              liftgate",
+        "torque": "10 Nm (7.4 lbs-ft)",
+        "tools": "10 mm socket"
+      },
+      {
+        "description": "Bolts (x4) that attach the liftgate to the vehicle",
+        "torque": "24 Nm (17.7 lbs-ft)",
+        "tools": "13 mm socket"
+      }
+    ],
+    "llm_summary_text": "Open the liftgate. Use a telescoping hood prop to support the liftgate. Remove the rear headliner.\n                        See Rear Headliner (Remove and Replace) . Carefully release the clip\n                        and location pin that attach the RH rear edge of the headliner to the\n                        vehicle. Informational Purposes An informational icon, calling your attention Note This is to gain access to the liftgate harness connectors. Remove and discard the bolt\n                        that attaches the liftgate harness ground bolt to the liftgate. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm socket Disconnect the liftgate harness connectors (x3). Release the RH rear liftgate\n                        grommet from the body. Apply masking tape around the liftgate and liftgate hinge to mark the\n                        installation positioning. Place shop towels on the LH\n                        and RH side liftgate jambs. Release the spring clips\n                        (x2) that attach the LH and RH power strut upper ball studs to the liftgate,\n                        and then lay the struts down on the door jamb. Figure 1. LH shown, RH similar Remove the telescoping hood\n                        prop. With assistance, remove the\n                        bolts (x4) that attach the liftgate to the vehicle, and then place the\n                        liftgate on a stand. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket"
+  },
+  {
+    "id": "GUID-71945A0F-B37F-4D2A-8EC6-01DFA511968C",
+    "title": "Liftgate (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010020402",
+    "frt": 2.4,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-71945A0F-B37F-4D2A-8EC6-01DFA511968C.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Open the LH front door and\n                        lower the LH front window."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Open the liftgate."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the LH and RH\n                        liftgate lower bump stops. See ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove the LH and RH liftgate wedge dampers. See Liftgate Wedge Damper - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Remove the LH and RH bumper blocks. See Bump Stop - Liftgate - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Remove the LH and RH lower liftgate plugs. Figure 1. LH Shown, RH Similar"
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Remove the liftgate harness and the harness grommet. See Assembly - Harness - Liftgate - Global (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Disconnect the backlite glass heater negative connector."
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Remove the clip and bolt that attach the RH ground harness to the liftgate\n                        assembly. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Remove the liftgate cinch latch. See Liftgate Cinch Latch (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Remove the tuned mass damper. See Tuned Mass Damper (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 12,
+        "content": "Remove the nuts (x3) that attach the base spoiler to the liftgate. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 13,
+        "content": "Remove the spoiler outer panel. See Spoiler Outer Panel (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 14,
+        "content": "Remove the tail lamp. See Tail Lamp - Liftgate (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 15,
+        "content": "Disconnect the liftgate handle switch connector."
+      },
+      {
+        "type": "step",
+        "number": 16,
+        "content": "Remove the harness liftgate\n                        extend from the liftgate assembly."
+      },
+      {
+        "type": "step",
+        "number": 17,
+        "content": "Remove the backlight glass.\n                        See Backlite Glass (Remove and Install) . Informational Purposes An informational icon, calling your attention Note No need to remove the center high mounted brake light from the\n                            backlight glass."
+      },
+      {
+        "type": "step",
+        "number": 18,
+        "content": "Use a telescoping hood prop\n                        to support the liftgate."
+      },
+      {
+        "type": "step",
+        "number": 19,
+        "content": "Place shop towels on the LH\n                        and RH side liftgate jambs."
+      },
+      {
+        "type": "step",
+        "number": 20,
+        "content": "Release the spring clips\n                        (x2) that attach the LH and RH power strut upper ball studs to the liftgate,\n                        and then lay the struts down on the door jamb. Figure 2. LH Shown, RH Similar"
+      },
+      {
+        "type": "step",
+        "number": 21,
+        "content": "Remove the telescoping hood\n                        prop. Informational Purposes An informational icon, calling your attention Note Assistance is recommended after removal."
+      },
+      {
+        "type": "step",
+        "number": 22,
+        "content": "With assistance, remove the\n                        bolts (x4) that attach the liftgate to the vehicle, and then place the\n                        liftgate on a stand. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 23,
+        "content": "Remove the LH and RH\n                        liftgate ball stud bracket bolts (x2) from the liftgate. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket Figure 3. LH Shown, RH Similar"
+      },
+      {
+        "type": "step",
+        "number": 24,
+        "content": "Remove and discard all spacer pads."
+      },
+      {
+        "type": "step",
+        "number": 25,
+        "content": "Clean all remaining glass adhesive and spacer pads adhesive from the body\n                        and the glass."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolt that attach the RH ground harness to the liftgate\n              assembly",
+        "torque": "10 Nm (7.4 lbs-ft)",
+        "tools": "10 mm deep socket"
+      },
+      {
+        "description": "Nuts (x3) that attach the base spoiler to the liftgate",
+        "torque": "5 Nm (3.7 lbs-ft)",
+        "tools": "10 mm deep socket"
+      },
+      {
+        "description": "Bolts (x4) that attach the liftgate to the vehicle",
+        "torque": "24 Nm (17.7 lbs-ft)",
+        "tools": "13 mm socket"
+      },
+      {
+        "description": "LH and RH liftgate ball stud bracket bolts (x2)",
+        "torque": "20 Nm (14.7 lbs-ft)",
+        "tools": "13 mm deep socket"
+      }
+    ],
+    "llm_summary_text": "Open the LH front door and\n                        lower the LH front window. Open the liftgate. Remove the LH and RH\n                        liftgate lower bump stops. See . Remove the LH and RH liftgate wedge dampers. See Liftgate Wedge Damper - LH (Remove and Replace) . Remove the LH and RH bumper blocks. See Bump Stop - Liftgate - LH (Remove and Replace) . Remove the LH and RH lower liftgate plugs. Figure 1. LH Shown, RH Similar Remove the liftgate harness and the harness grommet. See Assembly - Harness - Liftgate - Global (Remove and Replace) . Disconnect the backlite glass heater negative connector. Remove the clip and bolt that attach the RH ground harness to the liftgate\n                        assembly. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket Remove the liftgate cinch latch. See Liftgate Cinch Latch (Remove and Replace) . Remove the tuned mass damper. See Tuned Mass Damper (Remove and Replace) . Remove the nuts (x3) that attach the base spoiler to the liftgate. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket Remove the spoiler outer panel. See Spoiler Outer Panel (Remove and Replace) . Remove the tail lamp. See Tail Lamp - Liftgate (Remove and Install) . Disconnect the liftgate handle switch connector. Remove the harness liftgate\n                        extend from the liftgate assembly. Remove the backlight glass.\n                        See Backlite Glass (Remove and Install) . Informational Purposes An informational icon, calling your attention Note No need to remove the center high mounted brake light from the\n                            backlight glass. Use a telescoping hood prop\n                        to support the liftgate. Place shop towels on the LH\n                        and RH side liftgate jambs. Release the spring clips\n                        (x2) that attach the LH and RH power strut upper ball studs to the liftgate,\n                        and then lay the struts down on the door jamb. Figure 2. LH Shown, RH Similar Remove the telescoping hood\n                        prop. Informational Purposes An informational icon, calling your attention Note Assistance is recommended after removal. With assistance, remove the\n                        bolts (x4) that attach the liftgate to the vehicle, and then place the\n                        liftgate on a stand. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket Remove the LH and RH\n                        liftgate ball stud bracket bolts (x2) from the liftgate. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket Figure 3. LH Shown, RH Similar Remove and discard all spacer pads. Clean all remaining glass adhesive and spacer pads adhesive from the body\n                        and the glass."
+  },
+  {
+    "id": "GUID-F18EDB98-AF6A-45CF-8A2E-754552351632",
+    "title": "Lower Trunk (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010060102",
+    "frt": 0.12,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-F18EDB98-AF6A-45CF-8A2E-754552351632.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove the trunk sill trim.\n                        See Trunk Sill Lower Trim (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove the LH and RH load floor brackets. See Bracket - Load Floor - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove trunk tub. See Trunk Tub (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove bottom foam pad from lower trunk."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Remove rear center bolt from\n                        lower trunk assembly. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Remove lower trunk assembly from vehicle. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket"
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Rear center bolt",
+        "torque": "10 Nm (7.4 lbs-ft)",
+        "tools": "10 mm socket"
+      },
+      {
+        "description": "Bolts (x4) attach lower trunk assembly to vehicle",
+        "torque": "24 Nm (17.7 lbs-ft)",
+        "tools": "13 mm socket"
+      }
+    ],
+    "llm_summary_text": "Remove the trunk sill trim.\n                        See Trunk Sill Lower Trim (Remove and Replace) . Remove the LH and RH load floor brackets. See Bracket - Load Floor - LH (Remove and Replace) . Remove trunk tub. See Trunk Tub (Remove and Replace) . Remove bottom foam pad from lower trunk. Remove rear center bolt from\n                        lower trunk assembly. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm socket Remove lower trunk assembly from vehicle. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket"
+  },
+  {
+    "id": "GUID-A5ED0D80-7589-40C7-BA4D-6E296D0FC755",
+    "title": "Panel - Rear End (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010060202",
+    "frt": 0.72,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-A5ED0D80-7589-40C7-BA4D-6E296D0FC755.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Place the vehicle on the 2-post\n            lift. Informational Purposes An informational icon, calling your attention TIp Ensure the vehicle is\n              not charging."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove both rear fender garnishes. See Fender Garnish - Rear - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the trunk tub. See Trunk Tub (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove and discard the rear center\n            bolt from the lower trunk assembly. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Remove the rear side bolts (x2) from the lower trunk assembly. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Remove the rear fascia and diffuser assembly. See Assembly - Fascia and Diffuser - Rear (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Remove rear bumper beam from the\n            vehicle. See Rear Bumper Beam (Remove and Replace)"
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Remove rear fascia center bracket from\n            the vehicle. See Bracket - Center - Rear Fascia (Remove and Replace)"
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Remove liftgate striker from the\n            vehicle. See Striker - Liftgate (Remove and Replace)"
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Remove bolts (x2) that attach the rear\n            end panel to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Slide outward to remove the rear end\n            panel from the rear of the vehicle."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolts (x2) that attach the rear end panel to the body",
+        "torque": "10 Nm (7.4 lbs-ft)",
+        "tools": "10 mm socket"
+      },
+      {
+        "description": "Lower trunk assembly rear center bolt",
+        "torque": "10 Nm (7.4 lbs-ft)",
+        "tools": "10 mm socket"
+      },
+      {
+        "description": "Lower trunk assembly rear side bolts (x2)",
+        "torque": "24 Nm (17.7 lbs-ft)",
+        "tools": "13 mm socket"
+      }
+    ],
+    "llm_summary_text": "Place the vehicle on the 2-post\n            lift. Informational Purposes An informational icon, calling your attention TIp Ensure the vehicle is\n              not charging. Remove both rear fender garnishes. See Fender Garnish - Rear - LH (Remove and Replace) . Remove the trunk tub. See Trunk Tub (Remove and Replace) . Remove and discard the rear center\n            bolt from the lower trunk assembly. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm socket Remove the rear side bolts (x2) from the lower trunk assembly. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm socket Remove the rear fascia and diffuser assembly. See Assembly - Fascia and Diffuser - Rear (Remove and Install) . Remove rear bumper beam from the\n            vehicle. See Rear Bumper Beam (Remove and Replace) Remove rear fascia center bracket from\n            the vehicle. See Bracket - Center - Rear Fascia (Remove and Replace) Remove liftgate striker from the\n            vehicle. See Striker - Liftgate (Remove and Replace) Remove bolts (x2) that attach the rear\n            end panel to the body. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm socket Slide outward to remove the rear end\n            panel from the rear of the vehicle."
+  },
+  {
+    "id": "GUID-5664BD92-0891-4741-9A59-7884B715D82F",
+    "title": "Pencil Brace - Wiper Bracket - LH (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010055202",
+    "frt": 0.24,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-5664BD92-0891-4741-9A59-7884B715D82F.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove the cowl screen. See Cowl Screen (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove the bolts (x2) that attaches\n            the LH wiper bracket pencil brace to the body, and then remove the brace from the\n            vehicle. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: 13 mm deep socket"
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolts (x2) that attaches the LH/RH wiper bracket pencil brace to the\n              body",
+        "torque": "27 Nm (19.9 lbs-ft)",
+        "tools": "13 mm deep socket"
+      }
+    ],
+    "llm_summary_text": "Remove the cowl screen. See Cowl Screen (Remove and Replace) . Remove the bolts (x2) that attaches\n            the LH wiper bracket pencil brace to the body, and then remove the brace from the\n            vehicle. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: 13 mm deep socket"
+  },
+  {
+    "id": "GUID-24EF19E1-1E98-48D3-B476-1B7A7D2F249E",
+    "title": "Pencil Brace - Wiper Bracket - RH (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010055302",
+    "frt": 0.3,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-24EF19E1-1E98-48D3-B476-1B7A7D2F249E.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Remove the cowl screen. See Cowl Screen (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove the bolts (x2) that attaches\n            the RH wiper bracket pencil brace to the body, and then remove the brace from the\n            vehicle. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: 13 mm deep socket"
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolts (x2) that attaches the LH/RH wiper bracket pencil brace to the\n              body",
+        "torque": "27 Nm (19.9 lbs-ft)",
+        "tools": "13 mm deep socket"
+      }
+    ],
+    "llm_summary_text": "Remove the cowl screen. See Cowl Screen (Remove and Replace) . Remove the bolts (x2) that attaches\n            the RH wiper bracket pencil brace to the body, and then remove the brace from the\n            vehicle. Informational Purposes An informational icon, calling your attention Note Use of the following\n          tool(s) is recommended: 13 mm deep socket"
+  },
+  {
+    "id": "GUID-2AE30B04-589C-4CB4-B526-CEA938888549",
+    "title": "Door - Rear - LH (Remove and Install)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010020501",
+    "frt": 0.48,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-2AE30B04-589C-4CB4-B526-CEA938888549.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Open the LH doors and lower the LH windows."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Place the vehicle in\n                        Service Mode by using the touchscreen. See Service Mode ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Disconnect the LV battery\n                        power. See LV Power (Disconnect and Connect) (Modify) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Release the grommet between the 2 hinges, and then release the clips (x2)\n                        that attach the electrical harness connector to the door to disconnect the\n                        harness from the B-pillar area. Informational Purposes An informational icon, calling your attention Note Release the top clip at first, and then while pressing the top one,\n                            release the bottom clip."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Use tape to mark the position of the LH rear door hinges and the LH rear\n                        door check strap. Figure 1. Check Strap Area as Example"
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Remove the bolt that\n                        attaches the LH rear door check strap to the body. Informational Purposes An informational icon, calling your attention Note Unbolting the door\n                            check allows the door to swing freely beyond opening limits. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Torx T40 socket 4 in extension"
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "With assistance, loosen the\n                        bolts (x2) that attach the LH rear door assembly to the hinges, and then\n                        fully remove the bottom bolt, then fully remove the top bolt. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "With assistance, remove the LH rear door assembly from the vehicle, and\n                        place it on a padded surface."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Bolt that attaches the LH rear door check strap to the body",
+        "torque": "24 Nm (17.7 lbs-ft)",
+        "tools": "Torx T40 socket4 in extension"
+      },
+      {
+        "description": "Bolts (x2) that attach the LH rear door assembly to the hinges",
+        "torque": "49 Nm (36.1 lbs-ft)",
+        "tools": "13 mm deep socket"
+      }
+    ],
+    "llm_summary_text": "Open the LH doors and lower the LH windows. Place the vehicle in\n                        Service Mode by using the touchscreen. See Service Mode . Disconnect the LV battery\n                        power. See LV Power (Disconnect and Connect) (Modify) . Release the grommet between the 2 hinges, and then release the clips (x2)\n                        that attach the electrical harness connector to the door to disconnect the\n                        harness from the B-pillar area. Informational Purposes An informational icon, calling your attention Note Release the top clip at first, and then while pressing the top one,\n                            release the bottom clip. Use tape to mark the position of the LH rear door hinges and the LH rear\n                        door check strap. Figure 1. Check Strap Area as Example Remove the bolt that\n                        attaches the LH rear door check strap to the body. Informational Purposes An informational icon, calling your attention Note Unbolting the door\n                            check allows the door to swing freely beyond opening limits. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: Torx T40 socket 4 in extension With assistance, loosen the\n                        bolts (x2) that attach the LH rear door assembly to the hinges, and then\n                        fully remove the bottom bolt, then fully remove the top bolt. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket With assistance, remove the LH rear door assembly from the vehicle, and\n                        place it on a padded surface."
+  },
+  {
+    "id": "GUID-FE08CFCA-DEC5-4B8D-9E12-CDD036A4F5E4",
+    "title": "Door - Rear - LH (Remove and Replace)",
+    "section": "10 - Body Panels > 1010 - Body Panels",
+    "correction_code": "1010020502",
+    "frt": 1.2,
+    "full_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-FE08CFCA-DEC5-4B8D-9E12-CDD036A4F5E4.html",
+    "procedures": [
+      {
+        "type": "step",
+        "number": 1,
+        "content": "Place the vehicle in\n                        Service Mode by using the touchscreen. See Service Mode ."
+      },
+      {
+        "type": "step",
+        "number": 2,
+        "content": "Remove the HEPA filter\n                        assembly. See HEPA Filter Assembly (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 3,
+        "content": "Remove the LH rear door outer belt. See Outer Belt - Rear Door - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 4,
+        "content": "Remove the LH rear door trim panel. See Door Trim - Rear - LH (Remove and Install) ."
+      },
+      {
+        "type": "step",
+        "number": 5,
+        "content": "Remove the LH rear door window glass. See Glass - Door - Rear - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 6,
+        "content": "Disconnect the LV battery\n                        power. See LV Power (Disconnect and Connect) (Modify) ."
+      },
+      {
+        "type": "step",
+        "number": 7,
+        "content": "Disconnect the electrical\n                        harness from the LH rear window motor."
+      },
+      {
+        "type": "step",
+        "number": 8,
+        "content": "Disconnect the electrical\n                        harness from the LH rear door pressure sensor."
+      },
+      {
+        "type": "step",
+        "number": 9,
+        "content": "Release the clip that\n                        attaches the manual latch release cable to the LH rear window closeout\n                        assembly."
+      },
+      {
+        "type": "step",
+        "number": 10,
+        "content": "Release the clips (x3) that\n                        attach the LH rear door harness to the LH rear window closeout\n                        assembly."
+      },
+      {
+        "type": "step",
+        "number": 11,
+        "content": "Remove the plugs (x2) that\n                        cover the LH rear window closeout assembly rail fasteners."
+      },
+      {
+        "type": "step",
+        "number": 12,
+        "content": "Remove the screws (x2) that\n                        attach the LH rear window closeout assembly to the LH rear door. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 13,
+        "content": "Remove the bolts (x11) that\n                        attach the LH rear window closeout assembly to the LH rear door, and then\n                        gently lift the closeout assembly upwards to release the datums and angle\n                        the bottom of the assembly from the door. Warning Icon A warning icon, calling your attention to a possibly risky situation CAUTION Never\n                            loosen or remove the nuts (x4) that attach the regulator arms to the\n                            assembly closeout panel. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 8 mm socket"
+      },
+      {
+        "type": "step",
+        "number": 14,
+        "content": "Disconnect the LH rear outer door handle connector."
+      },
+      {
+        "type": "step",
+        "number": 15,
+        "content": "Disconnect the LH rear door\n                        electrical harness from the LH rear door latch connector."
+      },
+      {
+        "type": "step",
+        "number": 16,
+        "content": "Release the harness clips (x7) from the LH rear door."
+      },
+      {
+        "type": "step",
+        "number": 17,
+        "content": "Release the grommet between\n                        the 2 hinges, and then release the clips (x2) that attach the electrical\n                        harness connector to the door to disconnect the harness from the B-pillar\n                        area. Informational Purposes An informational icon, calling your attention Note Release the top clip at\n                            first, and then while pressing the top one, release the bottom\n                            clip."
+      },
+      {
+        "type": "step",
+        "number": 18,
+        "content": "Remove the rubber grommet from the LH rear door assembly."
+      },
+      {
+        "type": "step",
+        "number": 19,
+        "content": "Remove the clip bases (x10) from the LH rear door."
+      },
+      {
+        "type": "step",
+        "number": 20,
+        "content": "Remove the LH rear door latch. See Door Latch - Rear - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 21,
+        "content": "Remove the LH rear outer door handle. See Handle - Exterior Release - Door - Rear - LH (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 22,
+        "content": "Remove the LH rear door check strap. See Check Strap - Rear (Remove and Replace) ."
+      },
+      {
+        "type": "step",
+        "number": 23,
+        "content": "With assistance, loosen the\n                        bolts (x2) that attach the LH rear door assembly to the hinges, and then\n                        fully remove the bottom bolt, then fully remove the top bolt. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket"
+      },
+      {
+        "type": "step",
+        "number": 24,
+        "content": "With assistance, remove the\n                        LH rear door assembly from the vehicle, and place it on a padded\n                        surface."
+      }
+    ],
+    "specifications": [
+      {
+        "description": "Screws (x2) that attach the LH rear window closeout assembly to the\n              LH rear door",
+        "torque": "10 Nm (7.4 lbs-ft)",
+        "tools": "10 mm deep socket"
+      },
+      {
+        "description": "Bolts (x11) that attach the LH rear window closeout assembly to the LH rear\n              door",
+        "torque": "4.5 Nm (3.3 lbs-ft)",
+        "tools": "8 mm socket"
+      },
+      {
+        "description": "Bolts (x2) that attach the LH rear door assembly to the hinges",
+        "torque": "49 Nm (36.1 lbs-ft)",
+        "tools": "13 mm deep socket"
+      },
+      {
+        "description": "Bolts (x2) that attach the window glass to the regulator guide blocks",
+        "torque": "12 Nm (8.8 lbs-ft)",
+        "tools": "10 mm deep socket"
+      }
+    ],
+    "llm_summary_text": "Place the vehicle in\n                        Service Mode by using the touchscreen. See Service Mode . Remove the HEPA filter\n                        assembly. See HEPA Filter Assembly (Remove and Replace) . Remove the LH rear door outer belt. See Outer Belt - Rear Door - LH (Remove and Replace) . Remove the LH rear door trim panel. See Door Trim - Rear - LH (Remove and Install) . Remove the LH rear door window glass. See Glass - Door - Rear - LH (Remove and Replace) . Disconnect the LV battery\n                        power. See LV Power (Disconnect and Connect) (Modify) . Disconnect the electrical\n                        harness from the LH rear window motor. Disconnect the electrical\n                        harness from the LH rear door pressure sensor. Release the clip that\n                        attaches the manual latch release cable to the LH rear window closeout\n                        assembly. Release the clips (x3) that\n                        attach the LH rear door harness to the LH rear window closeout\n                        assembly. Remove the plugs (x2) that\n                        cover the LH rear window closeout assembly rail fasteners. Remove the screws (x2) that\n                        attach the LH rear window closeout assembly to the LH rear door. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 10 mm deep socket Remove the bolts (x11) that\n                        attach the LH rear window closeout assembly to the LH rear door, and then\n                        gently lift the closeout assembly upwards to release the datums and angle\n                        the bottom of the assembly from the door. Warning Icon A warning icon, calling your attention to a possibly risky situation CAUTION Never\n                            loosen or remove the nuts (x4) that attach the regulator arms to the\n                            assembly closeout panel. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 8 mm socket Disconnect the LH rear outer door handle connector. Disconnect the LH rear door\n                        electrical harness from the LH rear door latch connector. Release the harness clips (x7) from the LH rear door. Release the grommet between\n                        the 2 hinges, and then release the clips (x2) that attach the electrical\n                        harness connector to the door to disconnect the harness from the B-pillar\n                        area. Informational Purposes An informational icon, calling your attention Note Release the top clip at\n                            first, and then while pressing the top one, release the bottom\n                            clip. Remove the rubber grommet from the LH rear door assembly. Remove the clip bases (x10) from the LH rear door. Remove the LH rear door latch. See Door Latch - Rear - LH (Remove and Replace) . Remove the LH rear outer door handle. See Handle - Exterior Release - Door - Rear - LH (Remove and Replace) . Remove the LH rear door check strap. See Check Strap - Rear (Remove and Replace) . With assistance, loosen the\n                        bolts (x2) that attach the LH rear door assembly to the hinges, and then\n                        fully remove the bottom bolt, then fully remove the top bolt. Informational Purposes An informational icon, calling your attention TIp Use of the following\n          tool(s) is recommended: 13 mm deep socket With assistance, remove the\n                        LH rear door assembly from the vehicle, and place it on a padded\n                        surface."
+  }
+]
