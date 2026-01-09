@@ -4,7 +4,7 @@ import re
 # Paths
 ORIGINAL_PATH = "../data/raw/body_panels_procedures.json"          # Original scraped procedures
 AUGMENTED_PATH = "../data/raw/augmentations.json"  # Only first 3 with LLM metadata
-OUTPUT_PATH = "../data/processed/body_panels_procedures_merged.json"    # New file
+OUTPUT_PATH = "../data/processed/body_panels_procedures_augmented.json"    # New file
 
 # Known operation keywords
 OPERATION_KEYWORDS = ["remove", "install", "replace", "inspect", "tighten", "adjust", "disconnect", "reconnect"]

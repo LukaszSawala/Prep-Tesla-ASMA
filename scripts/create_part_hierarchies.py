@@ -2,7 +2,7 @@ import json
 import re
 
 INPUT_PATH = "../data/raw/body_panels_procedures.json"
-OUTPUT_PATH = "../data/model_parts_actions.json"
+OUTPUT_PATH = "../data/model_parts.json"
 
 # Expandable list of supported models
 MODELS = ["Model Y"]

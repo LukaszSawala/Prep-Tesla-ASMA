@@ -7,7 +7,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import json
-from urllib.parse import urljoin
 from tqdm import tqdm
 from crawler import crawl_body_panels_section
 

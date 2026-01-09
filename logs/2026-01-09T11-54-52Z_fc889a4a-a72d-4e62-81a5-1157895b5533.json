@@ -1,0 +1,19 @@
+{
+  "model": "Model Y",
+  "user_prompt": "I would like to replace the shock tower of the car",
+  "llm_part_candidates": [
+    {
+      "part": "Brace - Shock Tower",
+      "confidence": "high"
+    }
+  ],
+  "selected_part": "Brace - Shock Tower",
+  "selected_operation": "Remove and Replace",
+  "procedure_id": "GUID-641A8D8A-E9FF-46F3-AF65-50AD7F7978E1",
+  "feedback": {
+    "issue": true,
+    "comment": "im not sure"
+  },
+  "log_id": "fc889a4a-a72d-4e62-81a5-1157895b5533",
+  "timestamp": "2026-01-09T11-54-52Z"
+}

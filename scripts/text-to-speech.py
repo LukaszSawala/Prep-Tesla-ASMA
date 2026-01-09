@@ -2,8 +2,6 @@ import sounddevice as sd
 import numpy as np
 import json
 from faster_whisper import WhisperModel
-import threading
-import sys
 
 # --------- CONFIG ----------
 SAMPLE_RATE = 16000       # Whisper requires 16 kHz
