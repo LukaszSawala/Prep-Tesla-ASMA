@@ -1,18 +1,13 @@
 import json
 from tqdm import tqdm
 import time
-from google import genai
-import os
-import re
-from dotenv import load_dotenv
-load_dotenv()
+from utils import Utils
+
 
 INPUT_PATH = "../data/raw/body_panels_procedures.json"
 OUTPUT_PATH = "../data/processed/body_panels_procedures_augmented.json"
 
-# ---------------- Gemini API Setup ----------------
-API_KEY = os.getenv("API_KEY")
-client = genai.Client(api_key=API_KEY)
+# ---------------- Prompting ----------------
 
 def build_prompt(full_text: str) -> str:
     return f"""
@@ -29,24 +24,6 @@ def build_prompt(full_text: str) -> str:
     {full_text}
     \"\"\"
     """.strip()
-
-def query_gemini(prompt: str) -> dict:
-    """
-    Sends the prompt to Gemini and parses JSON response.
-    """
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=prompt
-    )
-    fence_pattern = r"^```(?:json)?\s*(.*?)\s*```$"
-    match = re.match(fence_pattern, response, flags=re.DOTALL | re.IGNORECASE)
-    if match:
-        response = match.group(1).strip()
-    try:
-        return json.loads(response.text)
-    except json.JSONDecodeError:
-        print("⚠️ Failed to parse Gemini response:", response.text)
-        return None
 
 # ---------------- Main ----------------
 def main():
@@ -68,7 +45,7 @@ def main():
             continue
 
         prompt = build_prompt(full_text)
-        result = query_gemini(prompt)
+        result = Utils.query_gemini(prompt)
 
         if result:
             proc["llm_metadata"] = result

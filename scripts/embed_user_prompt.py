@@ -15,13 +15,10 @@ Voice/Text input integrated
 
 import json
 import os
-import re
-import uuid
-from datetime import datetime, UTC
+
 from typing import Dict, List
-from google import genai
 from dotenv import load_dotenv
-from utils import UserInputHandler
+from utils import UserInputHandler, Utils
 
 
 load_dotenv()
@@ -34,37 +31,12 @@ MODEL_NAME = "gemini-2.5-flash"
 
 MODEL_PARTS_PATH = "../data/model_parts.json"
 PROCEDURES_PATH = "../data/processed/body_panels_procedures_augmented.json"
-LOG_DIR = "../logs"
 
 API_KEY = os.getenv("API_KEY")
-client = genai.Client(api_key=API_KEY)
-input_handler = UserInputHandler(mode="text")
+INPUT_HANDLER = UserInputHandler(mode="text")
+UTILS_CALLER = Utils()
 
 TOP_K = 3
-
-# Ensure log directory exists
-os.makedirs(LOG_DIR, exist_ok=True)
-
-# =========================
-# Utilities
-# =========================
-
-def strip_json_fences(text: str) -> str:
-    fence_pattern = r"```(?:json)?\s*(.*?)\s*```"
-    match = re.search(fence_pattern, text, flags=re.DOTALL | re.IGNORECASE)
-    return match.group(1).strip() if match else text.strip()
-
-def save_log(log_data: Dict):
-    timestamp = datetime.now(UTC).strftime("%Y-%m-%dT%H-%M-%SZ")
-    log_id = str(uuid.uuid4())
-    filename = f"{timestamp}_{log_id}.json"
-    path = os.path.join(LOG_DIR, filename)
-
-    log_data["log_id"] = log_id
-    log_data["timestamp"] = timestamp
-
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(log_data, f, indent=2, ensure_ascii=False)
 
 # =========================
 # Load Data
@@ -80,7 +52,7 @@ def load_procedures(path: str) -> Dict[str, dict]:
     return {proc["id"]: proc for proc in procedures}
 
 # =========================
-# Gemini Grounding
+# Prompt Building
 # =========================
 
 def build_part_prompt(user_input: str, valid_parts: List[str]) -> str:
@@ -110,20 +82,6 @@ def build_part_prompt(user_input: str, valid_parts: List[str]) -> str:
             }}
             """.strip()
 
-def query_gemini(prompt: str) -> Dict:
-    response = client.models.generate_content(
-        model=MODEL_NAME,
-        contents=prompt
-    )
-
-    raw_text = strip_json_fences(response.text)
-
-    try:
-        return json.loads(raw_text)
-    except json.JSONDecodeError:
-        print("⚠️ Failed to parse Gemini response:")
-        print(raw_text)
-        return {"candidates": []}
 
 
 # =========================
@@ -132,7 +90,7 @@ def query_gemini(prompt: str) -> Dict:
 
 def extract_part_candidates(user_input: str, valid_parts: List[str]) -> List[Dict]:
     prompt = build_part_prompt(user_input, valid_parts)
-    result = query_gemini(prompt)
+    result = UTILS_CALLER.query_gemini(prompt)
     return result.get("candidates", [])
 
 def choose_part(candidates: List[Dict]) -> str:
@@ -145,7 +103,7 @@ def choose_part(candidates: List[Dict]) -> str:
         print(f"{i}. {c['part']} (confidence: {c.get('confidence', 'unknown')})")
 
     idx = int(
-        input_handler.get_user_input(
+        INPUT_HANDLER.get_user_input(
             "Select the correct part (number):",
             expect_choice=True,
             max_choice=len(candidates)
@@ -163,7 +121,7 @@ def choose_operation(part_data: List[List[str]]) -> str:
         print(f"{i}. {op}")
 
     idx = int(
-        input_handler.get_user_input(
+        INPUT_HANDLER.get_user_input(
             "Select operation (number):",
             expect_choice=True,
             max_choice=len(part_data)
@@ -182,10 +140,10 @@ def get_procedure_id(part_data: List[List[str]], operation: str) -> str:
 # =========================
 
 def collect_feedback() -> Dict:
-    issue = input_handler.get_user_input("\nDid anything go wrong? (y/n):").strip().lower() == "y"
+    issue = INPUT_HANDLER.get_user_input("\nDid anything go wrong? (y/n):").strip().lower() == "y"
     comment = ""
     if issue:
-        comment = input_handler.get_user_input("Please describe the issue:").strip()
+        comment = INPUT_HANDLER.get_user_input("Please describe the issue:").strip()
     return {"issue": issue, "comment": comment}
 
 # =========================
@@ -202,10 +160,10 @@ def retrieve_procedure_from_input():
     while True:
         choice = input("> ").strip()
         if choice == "1":
-            input_handler.mode = "text"
+            INPUT_HANDLER.mode = "text"
             break
         elif choice == "2":
-            input_handler.mode = "voice"
+            INPUT_HANDLER.mode = "voice"
             break
         else:
             print("Invalid choice.")
@@ -216,7 +174,7 @@ def retrieve_procedure_from_input():
         print(f"{i}. {m}")
 
     model_idx = int(
-        input_handler.get_user_input(
+        INPUT_HANDLER.get_user_input(
             "Select model (number):",
             expect_choice=True,
             max_choice=len(models)
@@ -229,7 +187,7 @@ def retrieve_procedure_from_input():
     procedures = load_procedures(PROCEDURES_PATH)
     valid_parts = list(model_parts[model].keys())
 
-    user_input = input_handler.get_user_input("\nDescribe what you want to do:")
+    user_input = INPUT_HANDLER.get_user_input("\nDescribe what you want to do:")
 
     candidates = extract_part_candidates(user_input, valid_parts)
     selected_part = choose_part(candidates)
@@ -253,7 +211,7 @@ def retrieve_procedure_from_input():
     feedback = collect_feedback()
 
     # Log interaction
-    save_log({
+    UTILS_CALLER.save_log({
         "model": model,
         "user_prompt": user_input,
         "llm_part_candidates": candidates,
