@@ -9,6 +9,8 @@ Flow:
 5. Show available operations
 6. Retrieve and display full procedure
 7. Ask for feedback and log interaction
+
+Voice/Text input integrated
 """
 
 import json
@@ -19,6 +21,8 @@ from datetime import datetime, UTC
 from typing import Dict, List
 from google import genai
 from dotenv import load_dotenv
+from utils import UserInputHandler
+
 
 load_dotenv()
 
@@ -34,6 +38,7 @@ LOG_DIR = "../logs"
 
 API_KEY = os.getenv("API_KEY")
 client = genai.Client(api_key=API_KEY)
+input_handler = UserInputHandler(mode="text")
 
 TOP_K = 3
 
@@ -120,6 +125,7 @@ def query_gemini(prompt: str) -> Dict:
         print(raw_text)
         return {"candidates": []}
 
+
 # =========================
 # Part Extraction & Selection
 # =========================
@@ -138,12 +144,14 @@ def choose_part(candidates: List[Dict]) -> str:
     for i, c in enumerate(candidates, 1):
         print(f"{i}. {c['part']} (confidence: {c.get('confidence', 'unknown')})")
 
-    while True:
-        try:
-            idx = int(input("Select the correct part (number): ")) - 1
-            return candidates[idx]["part"]
-        except (ValueError, IndexError):
-            print("Invalid choice.")
+    idx = int(
+        input_handler.get_user_input(
+            "Select the correct part (number):",
+            expect_choice=True,
+            max_choice=len(candidates)
+        )
+    ) - 1
+    return candidates[idx]["part"]
 
 # =========================
 # Operation Selection
@@ -154,12 +162,14 @@ def choose_operation(part_data: List[List[str]]) -> str:
     for i, (op, _) in enumerate(part_data, 1):
         print(f"{i}. {op}")
 
-    while True:
-        try:
-            idx = int(input("Select operation: ")) - 1
-            return part_data[idx][0]
-        except (ValueError, IndexError):
-            print("Invalid choice.")
+    idx = int(
+        input_handler.get_user_input(
+            "Select operation (number):",
+            expect_choice=True,
+            max_choice=len(part_data)
+        )
+    ) - 1
+    return part_data[idx][0]
 
 def get_procedure_id(part_data: List[List[str]], operation: str) -> str:
     for op, guid in part_data:
@@ -172,39 +182,54 @@ def get_procedure_id(part_data: List[List[str]], operation: str) -> str:
 # =========================
 
 def collect_feedback() -> Dict:
-    issue = input("\nDid anything go wrong? (y/n): ").strip().lower() == "y"
+    issue = input_handler.get_user_input("\nDid anything go wrong? (y/n):").strip().lower() == "y"
     comment = ""
     if issue:
-        comment = input("Please describe the issue: ").strip()
-    return {
-        "issue": issue,
-        "comment": comment
-    }
+        comment = input_handler.get_user_input("Please describe the issue:").strip()
+    return {"issue": issue, "comment": comment}
 
 # =========================
-# Main
+# Main Flow
 # =========================
 
-def run():
+def retrieve_procedure_from_input():
+
     print("\n=== Technician Assistant Prototype ===\n")
+    print("Choose input method:")
+    print("1. Text")
+    print("2. Voice")
 
+    while True:
+        choice = input("> ").strip()
+        if choice == "1":
+            input_handler.mode = "text"
+            break
+        elif choice == "2":
+            input_handler.mode = "voice"
+            break
+        else:
+            print("Invalid choice.")
+
+    # Model selection
     models = ["Model Y"]
     for i, m in enumerate(models, 1):
         print(f"{i}. {m}")
-    while True:
-        try:
-            model_idx = int(input("Select model (number): ")) - 1
-            model = models[model_idx]
-            break
-        except (ValueError, IndexError):
-            print("Invalid choice.")
+
+    model_idx = int(
+        input_handler.get_user_input(
+            "Select model (number):",
+            expect_choice=True,
+            max_choice=len(models)
+        )
+    ) - 1
+    model = models[model_idx]
     print(f"Selected model: {model}")
 
     model_parts = load_model_parts(MODEL_PARTS_PATH)
     procedures = load_procedures(PROCEDURES_PATH)
     valid_parts = list(model_parts[model].keys())
 
-    user_input = input("\nDescribe what you want to do: ")
+    user_input = input_handler.get_user_input("\nDescribe what you want to do:")
 
     candidates = extract_part_candidates(user_input, valid_parts)
     selected_part = choose_part(candidates)
@@ -239,10 +264,11 @@ def run():
     })
 
     print("\n📝 Interaction logged.")
+    return proc_id
 
 # =========================
 # Entry
 # =========================
 
 if __name__ == "__main__":
-    run()
+    _ = retrieve_procedure_from_input()
