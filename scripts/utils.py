@@ -112,10 +112,15 @@ class Utils:
             print("⚠️ Failed to parse Gemini response:", cleaned_text)
             return None
 
-    def save_log(log_data: Dict):
+    def save_log(log_data: Dict, error: bool = False):
         """
         Saves log data to a timestamped JSON file.
         """
+        if error:
+            path = os.path.join(LOG_DIR, "errors") # change the path to error subdir
+        else:
+            path = os.path.join(LOG_DIR, "normal")
+
         os.makedirs(LOG_DIR, exist_ok=True)
         timestamp = datetime.now(UTC).strftime("%Y-%m-%dT%H-%M-%SZ")
         log_id = str(uuid.uuid4())
@@ -123,7 +128,6 @@ class Utils:
         path = os.path.join(LOG_DIR, filename)
 
         log_data["log_id"] = log_id
-        log_data["timestamp"] = timestamp
-
+        log_data["timestamp"] = timestamp    
         with open(path, "w", encoding="utf-8") as f:
             json.dump(log_data, f, indent=2, ensure_ascii=False)

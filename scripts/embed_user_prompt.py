@@ -103,7 +103,7 @@ def choose_part(candidates: List[Dict]) -> str:
         print(f"{i}. {c['part']} (confidence: {c.get('confidence', 'unknown')})")
 
     idx = int(
-        INPUT_HANDLER.get_user_input(
+        INPUT_HANDLER.get_input(
             "Select the correct part (number):",
             expect_choice=True,
             max_choice=len(candidates)
@@ -121,7 +121,7 @@ def choose_operation(part_data: List[List[str]]) -> str:
         print(f"{i}. {op}")
 
     idx = int(
-        INPUT_HANDLER.get_user_input(
+        INPUT_HANDLER.get_input(
             "Select operation (number):",
             expect_choice=True,
             max_choice=len(part_data)
@@ -140,10 +140,10 @@ def get_procedure_id(part_data: List[List[str]], operation: str) -> str:
 # =========================
 
 def collect_feedback() -> Dict:
-    issue = INPUT_HANDLER.get_user_input("\nDid anything go wrong? (y/n):").strip().lower() == "y"
+    issue = INPUT_HANDLER.get_input("\nDid anything go wrong? (y/n):").strip().lower() == "y"
     comment = ""
     if issue:
-        comment = INPUT_HANDLER.get_user_input("Please describe the issue:").strip()
+        comment = INPUT_HANDLER.get_input("Please describe the issue:").strip()
     return {"issue": issue, "comment": comment}
 
 # =========================
@@ -174,7 +174,7 @@ def retrieve_procedure_from_input():
         print(f"{i}. {m}")
 
     model_idx = int(
-        INPUT_HANDLER.get_user_input(
+        INPUT_HANDLER.get_input(
             "Select model (number):",
             expect_choice=True,
             max_choice=len(models)
@@ -187,7 +187,7 @@ def retrieve_procedure_from_input():
     procedures = load_procedures(PROCEDURES_PATH)
     valid_parts = list(model_parts[model].keys())
 
-    user_input = INPUT_HANDLER.get_user_input("\nDescribe what you want to do:")
+    user_input = INPUT_HANDLER.get_input("\nDescribe what you want to do:")
 
     candidates = extract_part_candidates(user_input, valid_parts)
     selected_part = choose_part(candidates)
