@@ -1,0 +1,27 @@
+{
+  "model": "Model Y",
+  "user_prompt": "idk something wrong in the front",
+  "llm_part_candidates": [
+    {
+      "part": "Hood",
+      "confidence": "low"
+    },
+    {
+      "part": "Fender - LH",
+      "confidence": "low"
+    },
+    {
+      "part": "Door - Front - LH",
+      "confidence": "low"
+    }
+  ],
+  "selected_part": "Hood",
+  "selected_operation": "Remove and Install",
+  "procedure_id": "GUID-D59E7769-7993-4CED-94D7-466B8738B6F1",
+  "feedback": {
+    "issue": true,
+    "comment": "idk"
+  },
+  "log_id": "45789ba9-01d9-4670-ac2c-0f5baafb6e4f",
+  "timestamp": "2026-01-10T17-34-48Z"
+}

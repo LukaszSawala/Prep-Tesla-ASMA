@@ -1,0 +1,19 @@
+{
+  "model": "Model Y",
+  "user_prompt": "I would like to fix the fender",
+  "llm_part_candidates": [
+    {
+      "part": "Fender - LH",
+      "confidence": "high"
+    }
+  ],
+  "selected_part": "Fender - LH",
+  "selected_operation": "Remove and Replace",
+  "procedure_id": "GUID-489C234D-0880-406B-AF19-07850CABD19C",
+  "feedback": {
+    "issue": false,
+    "comment": ""
+  },
+  "log_id": "bf2fb3e0-1d38-4990-afc5-9e5aedb5a6c9",
+  "timestamp": "2026-01-10T17-52-32Z"
+}

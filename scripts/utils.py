@@ -10,14 +10,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # =========================
-# Configuration
-# =========================
-
 INPUT_PATH = "../data/raw/body_panels_procedures.json"
 OUTPUT_PATH = "../data/processed/body_panels_procedures_augmented.json"
 LOG_DIR = "../logs"
 API_KEY = os.getenv("API_KEY")
-
+# =========================
 
 
 class UserInputHandler:
@@ -111,7 +108,7 @@ class Utils:
             print("⚠️ Failed to parse Gemini response:", cleaned_text)
             return None
 
-    def save_log(log_data: Dict, error: bool = False):
+    def save_log(self, log_data: Dict, error: bool = False):
         """
         Saves log data to a timestamped JSON file.
         """
@@ -124,7 +121,7 @@ class Utils:
         timestamp = datetime.now(UTC).strftime("%Y-%m-%dT%H-%M-%SZ")
         log_id = str(uuid.uuid4())
         filename = f"{timestamp}_{log_id}.json"
-        path = os.path.join(LOG_DIR, filename)
+        path = os.path.join(path, filename)
 
         log_data["log_id"] = log_id
         log_data["timestamp"] = timestamp    

@@ -16,7 +16,7 @@ Voice/Text input integrated
 import json
 import os
 
-from typing import Dict, List
+from typing import Dict, List, Tuple
 from dotenv import load_dotenv
 from utils import UserInputHandler, Utils
 
@@ -93,23 +93,47 @@ def extract_part_candidates(user_input: str, valid_parts: List[str]) -> List[Dic
     result = UTILS_CALLER.query_gemini(prompt)
     return result.get("candidates", [])
 
-def choose_part(candidates: List[Dict]) -> str:
-    if not candidates:
-        print("❌ No matching parts found.")
-        return None
+# =========================
+# Part Extraction & Selection (Loop + Retry)
+# =========================
 
-    print("\nPossible target parts:")
-    for i, c in enumerate(candidates, 1):
-        print(f"{i}. {c['part']} (confidence: {c.get('confidence', 'unknown')})")
+def choose_part_with_retry(initial_user_input: str, valid_parts: List[str]) -> Tuple[str, List[Dict]]:
+    """
+    Loop-based part selection:
+    - Shows top candidates from LLM
+    - Option 404 lets the user retry with a new prompt
+    """
+    user_input = initial_user_input
+    while True:
+        candidates = extract_part_candidates(user_input, valid_parts)
 
-    idx = int(
-        INPUT_HANDLER.get_input(
-            "Select the correct part (number):",
-            expect_choice=True,
-            max_choice=len(candidates)
-        )
-    ) - 1
-    return candidates[idx]["part"]
+        if not candidates:
+            print("❌ No matching parts found. You can retry with a new prompt.")
+        else:
+            print("\nPossible target parts:")
+            for i, c in enumerate(candidates, 1):
+                print(f"{i}. {c['part']} (confidence: {c.get('confidence', 'unknown')})")
+        
+        try:
+            idx = int(
+                INPUT_HANDLER.get_input(
+                    "Select the correct part (number) or 202 to retry:",
+                    expect_choice=True,
+                    max_choice=max(len(candidates), 202)
+                )
+            )
+        except ValueError:
+            print("Invalid input. Try again.")
+            continue
+
+        if idx == 202:
+            # Retry with new prompt
+            user_input = INPUT_HANDLER.get_input("Enter a new description of the part:")
+            continue
+        elif 1 <= idx <= len(candidates):
+            return candidates[idx - 1]["part"], candidates
+        else:
+            print("Invalid choice. Try again.")
 
 # =========================
 # Operation Selection
@@ -189,8 +213,7 @@ def retrieve_procedure_from_input():
 
     user_input = INPUT_HANDLER.get_input("\nDescribe what you want to do:")
 
-    candidates = extract_part_candidates(user_input, valid_parts)
-    selected_part = choose_part(candidates)
+    selected_part, candidates = choose_part_with_retry(user_input, valid_parts)
 
     if not selected_part:
         print("Aborted.")
