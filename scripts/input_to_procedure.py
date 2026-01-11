@@ -35,7 +35,8 @@ import os
 
 from typing import Dict, List, Tuple
 from dotenv import load_dotenv
-from utils import UserInputHandler, Utils
+from user_input_handler import UserInputHandler
+from utils import Utils
 
 
 load_dotenv()

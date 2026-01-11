@@ -12,22 +12,7 @@ Prerequisites (step 0)
 """
 
 from input_to_procedure import retrieve_procedure_from_input
-
-
-# =========================
-# Explicit confirmation
-# =========================
-
-def require_yes(prompt: str) -> None:
-    """
-    Blocks execution until the user explicitly answers 'yes' or 'y'.
-    No alternative paths yet.
-    """
-    while True:
-        answer = input(f"{prompt} (yes): ").strip().lower()
-        if answer in {"yes", "y"}:
-            return
-        print("❌ Please explicitly type 'yes' or 'y' to continue.")
+from user_input_handler import UserInputHandler
 
 
 # =========================
@@ -37,13 +22,14 @@ def require_yes(prompt: str) -> None:
 class StepManager:
     """
     Deterministic step executor for a single procedure.
-    Responsible ONLY for step order and confirmation.
+    Responsible ONLY for step order and explicit confirmation.
     """
 
-    def __init__(self, procedure: dict):
+    def __init__(self, procedure: dict, input_mode: str = "text"):
         self.procedure = procedure
         self.llm_metadata = procedure.get("llm_metadata", {})
         self.sections = procedure.get("procedure_sections", [])
+        self.input_handler = UserInputHandler(mode=input_mode)
 
     # -------------------------
     # Public entry point
@@ -58,6 +44,21 @@ class StepManager:
     # -------------------------
     # Internal helpers
     # -------------------------
+
+    def _require_yes(self, prompt: str) -> None:
+        """
+        Blocks execution until the user explicitly confirms.
+        Uses the shared UserInputHandler (text / voice).
+        """
+        while True:
+            answer = self.input_handler.get_input(
+                f"{prompt}:"
+            ).strip().lower()
+
+            if "yes" in answer.lower() or answer == "y":
+                return
+
+            print("❌ Please explicitly confirm by saying or typing 'yes'.")
 
     def _print_header(self) -> None:
         print()
@@ -86,7 +87,7 @@ class StepManager:
         for i, item in enumerate(prerequisites, 1):
             print(f"{i}. {item}")
 
-        require_yes("Have all prerequisites been reviewed and satisfied")
+        self._require_yes("Have all prerequisites been reviewed and satisfied")
 
     # -------------------------
     # Subprocedures
@@ -108,7 +109,7 @@ class StepManager:
         for step_idx, step in enumerate(steps, 1):
             self._run_single_step(step_idx, step)
 
-        require_yes(
+        self._require_yes(
             f"Subprocedure '{section_title}' completed. "
             "Confirm before moving to the next subprocedure"
         )
@@ -138,7 +139,7 @@ class StepManager:
             for link in hyperlinks:
                 print(f"- {link['text']}: {link['url']}")
 
-        require_yes(f"Finished step {step_id}")
+        self._require_yes(f"Finished step {step_id}")
 
 
 # =========================
@@ -152,7 +153,8 @@ def main():
         print("❌ No procedure retrieved. Exiting.")
         return
 
-    manager = StepManager(procedure)
+    # Input mode already chosen earlier in the pipeline
+    manager = StepManager(procedure, input_mode="text")
     manager.run()
 
 
