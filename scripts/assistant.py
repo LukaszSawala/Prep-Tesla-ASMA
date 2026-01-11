@@ -77,6 +77,7 @@ class StepManager:
     def _save_state(self) -> None:
         state = {
             "procedure_id": self.procedure_id,
+            "procedure_title": self.procedure_title,
             "subprocedure_idx": self.current_subprocedure_idx,
             "step_idx": self.current_step_idx,
         }
