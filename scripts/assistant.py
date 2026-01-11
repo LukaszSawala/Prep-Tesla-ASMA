@@ -11,7 +11,7 @@ Prerequisites (step 0)
 → End
 """
 
-from input_to_procedure import retrieve_procedure_from_input
+from input_to_procedure import ProcedureRetriever
 from user_input_handler import UserInputHandler
 
 
@@ -147,7 +147,8 @@ class StepManager:
 # =========================
 
 def main():
-    procedure = retrieve_procedure_from_input(assistant_mode=True)
+    assistant = ProcedureRetriever(input_mode="text")
+    procedure = assistant.retrieve_procedure()
 
     if not procedure:
         print("❌ No procedure retrieved. Exiting.")

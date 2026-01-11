@@ -1,0 +1,27 @@
+{
+  "model": "Model Y",
+  "user_prompt": "there is something wrong on the side of the car",
+  "llm_part_candidates": [
+    {
+      "part": "Door - Front - LH",
+      "confidence": "high"
+    },
+    {
+      "part": "Door - Rear - LH",
+      "confidence": "high"
+    },
+    {
+      "part": "Fender - LH",
+      "confidence": "high"
+    }
+  ],
+  "selected_part": "Door - Front - LH",
+  "selected_operation": "Remove and Replace",
+  "procedure_id": "GUID-F1462900-0409-44C9-9844-5A3C0AC66FEE",
+  "feedback": {
+    "error": false,
+    "comment": ""
+  },
+  "log_id": "9acf795a-5cf5-4524-ab10-2e40912be33b",
+  "timestamp": "2026-01-11T12-11-11Z"
+}
