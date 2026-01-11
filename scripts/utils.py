@@ -47,7 +47,7 @@ class UserInputHandler:
 
             if user_input == "404":
                 print("🔄 Switching to VOICE mode")
-                self.mode = "voice"
+                self.set_mode("voice")
                 return self.get_input(prompt, expect_choice, max_choice)
 
             return user_input
@@ -59,7 +59,7 @@ class UserInputHandler:
 
         if not transcript:
             print("⚠️ No speech detected → switching to TEXT")
-            self.mode = "text"
+            self.set_mode("text")
             return self.get_input(prompt, expect_choice, max_choice)
 
         print(f"🗣️ Heard: {transcript}")
@@ -108,14 +108,15 @@ class Utils:
             print("⚠️ Failed to parse Gemini response:", cleaned_text)
             return None
 
-    def save_log(self, log_data: Dict, error: bool = False):
+    def save_log(self, log_data: Dict, error: bool = False, run_stage: str = None) -> None:
         """
         Saves log data to a timestamped JSON file.
         """
+        path = os.path.join(LOG_DIR, run_stage) # subdir for stage of the logging
         if error:
-            path = os.path.join(LOG_DIR, "errors") # change the path to error subdir
+            path = os.path.join(path, "errors") # change the path to error subdir
         else:
-            path = os.path.join(LOG_DIR, "normal")
+            path = os.path.join(path, "normal")
 
         os.makedirs(LOG_DIR, exist_ok=True)
         timestamp = datetime.now(UTC).strftime("%Y-%m-%dT%H-%M-%SZ")

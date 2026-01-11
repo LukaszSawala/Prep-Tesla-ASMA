@@ -1,1 +1,1 @@
-## After creating a venv, run input_to_procedure.py
+## After creating a venv, run input_to_procedure.py for phase 1 or assistant.py for phase 2.

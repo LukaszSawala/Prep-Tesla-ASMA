@@ -1,4 +1,21 @@
 """
+
+Phase 1 scope:
+- Procedure identification only
+- No step-level execution
+- Human-in-the-loop disambiguation required
+
+Known limitations:
+- Keywords unused (fallback retrieval)
+- Safety/tools stored globally
+- Voice interaction is minimal
+-  and more...
+
+Planned Phase 2:
+- Step-level retrieval
+- Per-step safety/tooling
+- Guided execution
+
 Prototype: Procedure Matching System (Model → Part → Operation)
 
 Flow:
@@ -164,17 +181,19 @@ def get_procedure_id(part_data: List[List[str]], operation: str) -> str:
 # =========================
 
 def collect_feedback() -> Dict:
-    issue = INPUT_HANDLER.get_input("\nDid anything go wrong? (y/n):").strip().lower() == "y"
+    error = INPUT_HANDLER.get_input("\nDid anything go wrong? (y/n):").strip().lower() == "y"
     comment = ""
-    if issue:
+    if error:
         comment = INPUT_HANDLER.get_input("Please describe the issue:").strip()
-    return {"issue": issue, "comment": comment}
+    return {"error": error, "comment": comment}
 
 # =========================
 # Main Flow
 # =========================
 
-def retrieve_procedure_from_input():
+def retrieve_procedure_from_input(assistant_mode=False) -> str:
+
+    return load_procedures(PROCEDURES_PATH).get("GUID-3854CC14-6DD1-4CFE-A639-A8464023F1C7") # temporary bypass for testing
 
     print("\n=== Technician Assistant Prototype ===\n")
     print("Choose input method:")
@@ -219,22 +238,28 @@ def retrieve_procedure_from_input():
         print("Aborted.")
         return
 
+    
     part_data = model_parts[model][selected_part]
     operation = choose_operation(part_data)
     proc_id = get_procedure_id(part_data, operation)
     procedure = procedures.get(proc_id)
 
-    print("\n✅ Final result")
-    print("Target part:", selected_part)
-    print("Operation:", operation)
-    print("Procedure ID:", proc_id)
-    print("URL:", procedure.get("full_url"))
-    print("Summary:", procedure.get("llm_metadata", {}).get("summary", "N/A"))
+    if not assistant_mode:
+        print("\n✅ Procedure Retrieved:")
+        print("Target part:", selected_part)
+        print("Operation:", operation)
+        print("Procedure ID:", proc_id)
+        print("URL:", procedure.get("full_url"))
+        print("Summary:", procedure.get("llm_metadata", {}).get("summary", "N/A"))
 
+    # Collect feedback as the last step
     feedback = collect_feedback()
 
     # Log interaction
-    UTILS_CALLER.save_log({
+    UTILS_CALLER.save_log(
+        run_stage="procedure_retrieval",
+        error=feedback.get("error", False),
+        log_data={
         "model": model,
         "user_prompt": user_input,
         "llm_part_candidates": candidates,
@@ -243,9 +268,9 @@ def retrieve_procedure_from_input():
         "procedure_id": proc_id,
         "feedback": feedback
     })
-
     print("\n📝 Interaction logged.")
-    return proc_id
+
+    return procedure
 
 # =========================
 # Entry
