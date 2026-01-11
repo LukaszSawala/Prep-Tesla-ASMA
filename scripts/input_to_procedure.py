@@ -167,7 +167,7 @@ class ProcedureRetriever:
     # -------------------------
 
     def retrieve_procedure(self, assistant_mode: bool = False) -> dict:
-        # return self.procedures.get("GUID-3854CC14-6DD1-4CFE-A639-A8464023F1C7") # temporary bypass for testing
+        return self.procedures.get("GUID-3854CC14-6DD1-4CFE-A639-A8464023F1C7") # temporary bypass for testing
         print("\n=== Technician Assistant Prototype ===\n")
 
         # Input method selection
